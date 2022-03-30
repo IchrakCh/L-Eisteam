@@ -1,3 +1,4 @@
+from ctypes import sizeof
 from xml.etree.ElementTree import tostring
 import pandas as pd
 
@@ -150,8 +151,9 @@ DataJobbeur = DataJobbeur.loc[:, ~DataJobbeur.columns.isin(['NOM','Prénom','COD
 
 DataJobbeur = pd.concat([DataJobbeur[col].astype(str).str.lower() for col in DataJobbeur.columns],axis=1)
 
+colsToReplaceWithTypeContract = ['Quel type de contrat vous intéresse 1','Quel type de contrat vous intéresse 2','Quel type de contrat vous intéresse 3']
 
-DataJobbeur['Quel type de contrat vous intéresse 1'] = DataJobbeur['Quel type de contrat vous intéresse 1'].map({
+DataJobbeur[colsToReplaceWithTypeContract] = DataJobbeur[colsToReplaceWithTypeContract].replace({
                              'contrat aidé ou aménagé (travailleur handicapé)':'0',
                              'temps partagé':1,
                              'bénévolat' : 2,
@@ -174,62 +176,73 @@ DataJobbeur['Quel type de contrat vous intéresse 1'] = DataJobbeur['Quel type d
                              'stage':19,
                              'portage salarial' : 20,
                              'intermitent (spectacle)' : 21,
+                            'alternance, appentissage': 14,
+                            'vdi (vendeur à doicile indépendant)': 4,
+
                              },)     
 
-DataJobbeur['Quel type de contrat vous intéresse 2'] = DataJobbeur['Quel type de contrat vous intéresse 2'].map({
-                             'contrat aidé ou aménagé (travailleur handicapé)':'0',
-                             'temps partagé':1,
-                             'bénévolat' : 2,
-                             'militaire' : 3,
-                             'vdi (vendeur à domicile indépendant)' : 4,
-                             'contrat sénior': 5,
-                             'mannequinat': 6,
-                             'indépendant / franchisé (eurl, sarl, sasu)':7,
-                             'intérim':8,
-                             'prêt de personnel' :9,
-                             'cdic (bâtiment)': 10,
-                             'cdd' : 11,
-                             'cdi': 12,
-                             'extra (restauration, hôtellerie)': 13,
-                             'alternance-appentissage' : 14,
-                             'vie / vte':15,
-                             'titulaire de la fonction publique': 16,
-                             'sous-traitance (microentreprise)':17,
-                             'saisonnier': 18,
-                             'stage':19,
-                             'portage salarial' : 20,
-                             'intermitent (spectacle)' : 21,
-                             'vdi (vendeur à doicile indépendant)': 4,
-                             'alternance, appentissage': 14,
-                             },)  
 
-DataJobbeur['Quel type de contrat vous intéresse 3'] = DataJobbeur['Quel type de contrat vous intéresse 3'].map({
-                             'contrat aidé ou aménagé (travailleur handicapé)':'0',
-                             'temps partagé':1,
-                             'bénévolat' : 2,
-                             'militaire' : 3,
-                             'vdi (vendeur à domicile indépendant)' : 4,
-                             'contrat sénior': 5,
-                             'mannequinat': 6,
-                             'indépendant / franchisé (eurl, sarl, sasu)':7,
-                             'intérim':8,
-                             'prêt de personnel' :9,
-                             'cdic (bâtiment)': 10,
-                             'cdd' : 11,
-                             'cdi': 12,
-                             'extra (restauration, hôtellerie)': 13,
-                             'alternance-appentissage' : 14,
-                             'vie / vte':15,
-                             'titulaire de la fonction publique': 16,
-                             'sous-traitance (microentreprise)':17,
-                             'saisonnier': 18,
-                             'stage':19,
-                             'portage salarial' : 20,
-                             'intermitent (spectacle)' : 21,
-                             'vdi (vendeur à doicile indépendant)': 4,
-                             'alternance, appentissage': 14,
+for i in range(len(DataJobbeur)):
+    for j in range (len(DataListOfPostLocation)):
+            if DataJobbeur['VILLE'][i] == DataListOfPostLocation[j]:
+                    DataJobbeur['VILLE'] = DataJobbeur['VILLE'].replace(DataListOfPostLocation[j],j)
+            elif (j==len(DataListOfPostLocation)-1 and isinstance(DataJobbeur['VILLE'][i],str)):         #DataJobbeur['VILLE'] = DataJobbeur['VILLE'].replace(DataJobbeur['VILLE'][i],-1)
+                  DataJobbeur['VILLE'] = DataJobbeur['VILLE'].replace(DataJobbeur['VILLE'][i],-1)
+
+for i in range(len(DataJobbeur)):
+    for j in range (len(DataListOfPostLocation)):
+            if DataJobbeur['Localisation géographique du poste (région, ville)'][i] == DataListOfPostLocation[j]:
+                    DataJobbeur['Localisation géographique du poste (région, ville)'] = DataJobbeur['Localisation géographique du poste (région, ville)'].replace(DataListOfPostLocation[j],j)
+            elif (j==len(DataListOfPostLocation)-1 and isinstance(DataJobbeur['Localisation géographique du poste (région, ville)'][i],str)):    
+                       DataJobbeur['Localisation géographique du poste (région, ville)'] = DataJobbeur['Localisation géographique du poste (région, ville)'].replace(DataJobbeur['Localisation géographique du poste (région, ville)'][i],-1)
+
+
+DataJobbeur['Quelle taille d\'entreprise / organisation TEXTE'] = DataJobbeur['Quelle taille d\'entreprise / organisation TEXTE'].map({
+                             'tpe':1,
+                             'pme':2,
+                             'eti':3,
+                             'grand groupe':4,
+                             },)
+                      
+
+#Data Mobilité:
+#transport en commum = 0
+#Permis de conduire / voiture = 1
+#Permis 2 roue = 2
+DataJobbeur['Voitures'] = DataJobbeur['Voitures'].map({
+                             'pas de véhicule':0,
+                             'véhiculé avec voiture':1,
+                             'permis de conduire':1,
+                             'deux roues à moteur':2,
                              },)    
 
+for i in range(len(DataJobbeur)):
+    for j in range(len(DataListOfCompetences)):
+       # print(j)
+        if DataJobbeur['Vos compétences 1'][i] == DataListOfCompetences[j]:
+                DataJobbeur['Vos compétences 1']= DataJobbeur['Vos compétences 1'].replace(DataListOfCompetences[j],j)
+        elif (j==len(DataListOfCompetences)-1 and isinstance(DataJobbeur['Vos compétences 1'][i],str)):        
+                 DataJobbeur['Vos compétences 1'] = DataJobbeur['Vos compétences 1'].replace(DataJobbeur['Vos compétences 1'][i],-1)
+        if DataJobbeur['Vos compétences 2'][i] == DataListOfCompetences[j]:
+                DataJobbeur['Vos compétences 2'] = DataJobbeur['Vos compétences 2'].replace(DataListOfCompetences[j],j)
+        elif (j==len(DataListOfCompetences)-1 and isinstance(DataJobbeur['Vos compétences 2'][i],str)):    
+                 DataJobbeur['Vos compétences 2'] = DataJobbeur['Vos compétences 2'].replace(DataJobbeur['Vos compétences 2'][i],-1)
+
+        if DataJobbeur['Vos compétences 3'][i] == DataListOfCompetences[j]:
+                DataJobbeur['Vos compétences 3'] = DataJobbeur['Vos compétences 3'].replace(DataListOfCompetences[j],j)
+        elif (j==len(DataListOfCompetences)-1 and isinstance(DataJobbeur['Vos compétences 3'][i],str)):
+              DataJobbeur['Vos compétences 3'] = DataJobbeur['Vos compétences 3'].replace(DataJobbeur['Vos compétences 3'][i],-1)
+
+
+colsToReplaceBy0And1 = ['Permis B','TPE - moins de 10 personnes','0- 20klm','PME 10 à 250 personnes','ETI 250 à 5000','GRAND GROUPE - Plus de 500 personnes','21- 40klm','Seriez-vous prêt à déménager pour ce futur job ?','61 - klm et plus','41-60klm']
+
+DataJobbeur[colsToReplaceBy0And1] = DataJobbeur[colsToReplaceBy0And1].replace({
+                                'oui':1,
+                                'non':0,
+                                'nan':0,})
+#print(isinstance(DataJobbeur['Vos compétences 1'][0],int))
+   
+#print(len(DataListOfCompetences))
 
 DataJobbeur.to_csv("DataJobbeurParsed.csv")                    
 
