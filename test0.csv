@@ -1,0 +1,500 @@
+,Métier du poste,Plusieurs personnes recherchées,Quels types de contrats pour les embauchés - TEXTE,Temps de travail,niveau de rémunération,Localisation du poste,Mobilité,Taille entreprise,autre permis,Comptétences pour le poste 1,Comptétences pour le poste 2,Comptétences pour le poste 3,Télétravail ( en %),Poste avec du déplacement (en %) si 75 ramené a 100%
+0,manutentionnaire,1,0,1.0,2050,abidos,permis de conduire,1,1,"créativité, générer des idées","créativité, générer des idées","confiance (en soi, en les autres et en l'avenir)",100,0
+1,manutentionnaire,0,1,1.0,2000,abidos,transports en commun,1,0,"visualisation, zoom sur la mise en pratique des méthodes concrètes","communication, faire passer un message","motivation, donner du sens au delà de la tâche à effectuer",75,25
+2,manutentionnaire,0,2,1.0,1750,abos,transports en commun,2,0,"vision, voir le chemin pour arriver à l'objectif (dézoom)","empathie, comprendre la réalité","vision, voir le chemin pour arriver à l'objectif (dézoom)",100,100
+3,serveuse,0,3,1.0,1800,abos,permis de conduire,2,0,"confiance (en soi, en les autres et en l'avenir)","créativité, générer des idées","curiosité, aimer apprendre",0,75
+4,manoeuvre,1,4,1.0,2100,abos,voiture,2,1,résolution de problème,ponctualité,"esprit d'entreprendre, proactivité",100,25
+5,inventoriste,0,5,1.0,2100,aicirits camou suhast,véhicule 2 roues,2,0,"motivation, donner du sens au delà de la tâche à effectuer",intelligence émotionnelle,"curiosité, aimer apprendre",50,50
+6,jardinier,0,6,1.0,1850,aire sur ladour,transports en commun,1,0,"présence, capacité de concentration",ponctualité,"organisation du temps, respect de dates buttoires",100,75
+7,menuisier,1,7,1.0,1650,aire-sur-ladour,permis de conduire,3,1,"curiosité, aimer apprendre","esprit d'entreprendre, proactivité",ponctualité,75,25
+8,manutentionnaire,0,2,1.0,1750,aire-sur-ladour,transports en commun,3,0,"confiance (en soi, en les autres et en l'avenir)",ponctualité,"vision, voir le chemin pour arriver à l'objectif (dézoom)",0,100
+9,chauffeur de bus,1,8,1.0,1950,amou,véhicule 2 roues,3,1,ponctualité,"confiance (en soi, en les autres et en l'avenir)","empathie, comprendre la réalité",0,75
+10,conducteur dengins,1,6,1.0,1800,amou,transports en commun,3,1,"visualisation, zoom sur la mise en pratique des méthodes concrètes","visualisation, zoom sur la mise en pratique des méthodes concrètes","présence, capacité de concentration",75,75
+11,cariste,1,9,1.0,2100,anglet,permis de conduire,3,1,"curiosité, aimer apprendre","sens du collectif, partage","communication, faire passer un message",50,50
+12,manutentionnaire,1,10,1.0,1950,annemasse,véhicule 2 roues,4,1,ponctualité,"motivation, donner du sens au delà de la tâche à effectuer","sens du collectif, partage",25,0
+13,cariste-rouleur,0,4,1.0,1900,arance,permis de conduire,3,0,capacité et application d'une consigne,"présence, capacité de concentration","motivation, donner du sens au delà de la tâche à effectuer",75,100
+14,manutentionnaire,1,4,1.0,2000,araujuzon,permis de conduire,2,1,"communication, faire passer un message","organisation du temps, respect de dates buttoires","organisation du temps, respect de dates buttoires",25,25
+15,chauffeur pl,1,3,1.0,1850,arboucave,véhicule 2 roues,4,1,"confiance (en soi, en les autres et en l'avenir)","curiosité, aimer apprendre","vision, voir le chemin pour arriver à l'objectif (dézoom)",75,0
+16,agent de production,1,16,1.0,1700,arbouet-sussaute,permis de conduire,3,1,"vision, voir le chemin pour arriver à l'objectif (dézoom)","créativité, générer des idées","audace, capacité à oser",75,0
+17,electromecanicien,0,3,1.0,1750,arbus,voiture,2,0,"communication, faire passer un message",gestion du stress,"sens du collectif, partage",50,0
+18,manutentionnaire,1,11,1.0,1650,arbus,véhicule 2 roues,3,1,"empathie, comprendre la réalité",intelligence émotionnelle,résolution de problème,50,25
+19,manutentionnaire,0,8,1.0,2000,aressy,véhicule 2 roues,2,0,"curiosité, aimer apprendre",résolution de problème,capacité et application d'une consigne,75,50
+20,conditionneuse,1,,1.0,1650,argagnon,permis de conduire,1,1,"sens du collectif, partage","présence, capacité de concentration",capacité et application d'une consigne,0,75
+21,conditionneur,1,14,0.8,2000,argagnon,voiture,3,1,"empathie, comprendre la réalité","motivation, donner du sens au delà de la tâche à effectuer","visualisation, zoom sur la mise en pratique des méthodes concrètes",0,0
+22,conditionneur,1,8,0.8,1900,argagnon,voiture,3,1,"créativité, générer des idées",capacité et application d'une consigne,gestion du stress,75,75
+23,ebavureur,1,13,0.8,2100,argagnon,transports en commun,3,1,résolution de problème,"vision, voir le chemin pour arriver à l'objectif (dézoom)","vision, voir le chemin pour arriver à l'objectif (dézoom)",25,0
+24,agent de securite,0,11,0.5,2000,argagnon,voiture,3,0,"esprit d'entreprendre, proactivité","organisation du temps, respect de dates buttoires","curiosité, aimer apprendre",75,0
+25,conditionneur,1,16,0.5,1900,argagnon,véhicule 2 roues,1,1,ponctualité,"vision, voir le chemin pour arriver à l'objectif (dézoom)","visualisation, zoom sur la mise en pratique des méthodes concrètes",50,100
+26,monteur charpente,1,,0.5,2050,arthez-de-bearn,véhicule 2 roues,3,1,gestion du stress,"motivation, donner du sens au delà de la tâche à effectuer","visualisation, zoom sur la mise en pratique des méthodes concrètes",75,0
+27,manoeuvre,0,,0.5,1900,arthez-de-bearn,véhicule 2 roues,2,0,ponctualité,"sens du collectif, partage","curiosité, aimer apprendre",25,50
+28,agent dentretien,0,13,0.5,2000,arthez-de-bearn,transports en commun,4,0,"organisation du temps, respect de dates buttoires",résolution de problème,"communication, faire passer un message",100,50
+29,secretaire,0,16,0.33,1900,arthez-de-bearn,voiture,1,0,"sens du collectif, partage","curiosité, aimer apprendre","sens du collectif, partage",100,0
+30,magasinier,1,12,1.0,2050,arthez-de-bearn,transports en commun,1,1,"présence, capacité de concentration","visualisation, zoom sur la mise en pratique des méthodes concrètes","organisation du temps, respect de dates buttoires",25,0
+31,conditionneuse,1,,1.0,1850,arthez-de-béarn,véhicule 2 roues,4,1,"curiosité, aimer apprendre","organisation du temps, respect de dates buttoires","communication, faire passer un message",0,50
+32,charpentier metal,1,16,1.0,1950,arthez-de-béarn,voiture,2,1,gestion du stress,"vision, voir le chemin pour arriver à l'objectif (dézoom)",intelligence émotionnelle,0,0
+33,macon,0,,1.0,1800,artiguelouve,véhicule 2 roues,2,0,ponctualité,ponctualité,capacité et application d'une consigne,0,100
+34,soudeur,0,,1.0,2100,artix,véhicule 2 roues,3,0,"empathie, comprendre la réalité",capacité et application d'une consigne,"audace, capacité à oser",75,75
+35,manoeuvre,1,16,1.0,1850,artix,véhicule 2 roues,4,1,"créativité, générer des idées","communication, faire passer un message","sens du collectif, partage",0,0
+36,manoeuvre,0,13,1.0,1900,artix,transports en commun,1,0,"audace, capacité à oser",gestion du stress,ponctualité,75,50
+37,conditionneuse,1,,1.0,1900,artix,véhicule 2 roues,4,1,ponctualité,"confiance (en soi, en les autres et en l'avenir)",ponctualité,25,50
+38,conditionneuse,1,8,1.0,2000,artix,permis de conduire,2,1,"curiosité, aimer apprendre","empathie, comprendre la réalité",capacité et application d'une consigne,50,75
+39,manutentionnaire,1,,1.0,1650,artix,voiture,2,1,"confiance (en soi, en les autres et en l'avenir)","visualisation, zoom sur la mise en pratique des méthodes concrètes","motivation, donner du sens au delà de la tâche à effectuer",25,75
+40,hotesse daccueil,0,3,1.0,1700,artix,permis de conduire,1,0,"visualisation, zoom sur la mise en pratique des méthodes concrètes","sens du collectif, partage","présence, capacité de concentration",0,75
+41,monteur,1,1,1.0,1850,artix,véhicule 2 roues,3,1,"motivation, donner du sens au delà de la tâche à effectuer","vision, voir le chemin pour arriver à l'objectif (dézoom)","organisation du temps, respect de dates buttoires",100,25
+42,manutentionnaire,0,3,1.0,2050,artix,véhicule 2 roues,4,0,"curiosité, aimer apprendre","visualisation, zoom sur la mise en pratique des méthodes concrètes","empathie, comprendre la réalité",100,100
+43,operateur polyvalent,1,,1.0,1800,artix,permis de conduire,1,1,résolution de problème,"empathie, comprendre la réalité","communication, faire passer un message",50,0
+44,animatrice (teur),1,9,1.0,2000,artix,permis de conduire,3,1,"audace, capacité à oser","visualisation, zoom sur la mise en pratique des méthodes concrètes",capacité et application d'une consigne,25,50
+45,conducteur dengins,0,14,1.0,1650,artix,permis de conduire,1,0,"visualisation, zoom sur la mise en pratique des méthodes concrètes","visualisation, zoom sur la mise en pratique des méthodes concrètes","communication, faire passer un message",25,75
+46,inventoriste,0,0,1.0,2100,artix,véhicule 2 roues,1,0,"visualisation, zoom sur la mise en pratique des méthodes concrètes","communication, faire passer un message","confiance (en soi, en les autres et en l'avenir)",75,0
+47,ouvrier agricole,1,11,1.0,2100,artix,véhicule 2 roues,4,1,"curiosité, aimer apprendre","créativité, générer des idées",gestion du stress,50,100
+48,agent de nettoyage industriel,1,14,1.0,1850,artix,véhicule 2 roues,2,1,"organisation du temps, respect de dates buttoires",capacité et application d'une consigne,"esprit d'entreprendre, proactivité",50,100
+49,chaudronnier,0,16,1.0,1950,artix,véhicule 2 roues,1,0,résolution de problème,"créativité, générer des idées","organisation du temps, respect de dates buttoires",50,50
+50,conditionneur,1,0,1.0,1750,artix,véhicule 2 roues,1,1,"motivation, donner du sens au delà de la tâche à effectuer",intelligence émotionnelle,ponctualité,100,75
+51,ouvrier espaces verts,0,11,1.0,1650,artix,permis de conduire,1,0,"créativité, générer des idées","organisation du temps, respect de dates buttoires",ponctualité,100,25
+52,facteur,0,10,0.8,2100,artix,permis de conduire,4,0,capacité et application d'une consigne,"motivation, donner du sens au delà de la tâche à effectuer",résolution de problème,50,75
+53,conditionneur,1,14,0.8,1850,artix,véhicule 2 roues,2,1,"motivation, donner du sens au delà de la tâche à effectuer",intelligence émotionnelle,"empathie, comprendre la réalité",25,25
+54,aide monteur,0,,0.8,1800,artix,permis de conduire,1,0,intelligence émotionnelle,gestion du stress,"visualisation, zoom sur la mise en pratique des méthodes concrètes",75,75
+55,operateur en chimie,1,4,0.5,1650,artix,transports en commun,1,1,"organisation du temps, respect de dates buttoires","communication, faire passer un message","communication, faire passer un message",100,75
+56,conditionneuse,1,16,0.5,1850,artix,voiture,4,1,"empathie, comprendre la réalité","audace, capacité à oser",résolution de problème,75,75
+57,conditionneuse,1,14,0.5,1650,artix,voiture,3,1,"curiosité, aimer apprendre","sens du collectif, partage",capacité et application d'une consigne,50,0
+58,educatrice sportive,0,,0.5,2000,artix,véhicule 2 roues,3,0,"communication, faire passer un message","esprit d'entreprendre, proactivité","créativité, générer des idées",25,75
+59,manutentionnaire,0,10,0.5,1700,artix,transports en commun,2,0,"motivation, donner du sens au delà de la tâche à effectuer","sens du collectif, partage","esprit d'entreprendre, proactivité",100,50
+60,agent de surveillance,0,16,0.33,1900,artix,véhicule 2 roues,2,0,résolution de problème,"vision, voir le chemin pour arriver à l'objectif (dézoom)",ponctualité,25,50
+61,macon coffreur,1,14,1.0,1750,artix,voiture,3,1,"organisation du temps, respect de dates buttoires","organisation du temps, respect de dates buttoires","créativité, générer des idées",0,50
+62,manutentionnaire,0,4,1.0,1850,arudy,permis de conduire,2,0,résolution de problème,"créativité, générer des idées","confiance (en soi, en les autres et en l'avenir)",75,0
+63,conditionneuse,0,8,1.0,1950,arzacq-arraziguet,permis de conduire,3,0,"sens du collectif, partage","empathie, comprendre la réalité",capacité et application d'une consigne,25,75
+64,peintre industriel,1,14,1.0,2050,arzacq-arraziguet,voiture,4,1,"créativité, générer des idées","présence, capacité de concentration",ponctualité,50,25
+65,conditionneuse,0,,1.0,2100,assat,permis de conduire,2,0,"motivation, donner du sens au delà de la tâche à effectuer","esprit d'entreprendre, proactivité","esprit d'entreprendre, proactivité",0,100
+66,manoeuvre,0,,1.0,1900,aubarède,permis de conduire,1,0,"esprit d'entreprendre, proactivité","organisation du temps, respect de dates buttoires","vision, voir le chemin pour arriver à l'objectif (dézoom)",25,25
+67,peintre batiment,0,6,1.0,1650,audejos,transports en commun,3,0,"créativité, générer des idées","présence, capacité de concentration","curiosité, aimer apprendre",100,100
+68,operateur de fabrication,0,15,1.0,1800,balansun,transports en commun,3,0,"communication, faire passer un message","esprit d'entreprendre, proactivité","confiance (en soi, en les autres et en l'avenir)",75,50
+69,agent de securite,1,3,1.0,2100,balansun,permis de conduire,1,1,"curiosité, aimer apprendre",ponctualité,gestion du stress,50,25
+70,manoeuvre,0,,1.0,1650,balansun,voiture,1,0,ponctualité,intelligence émotionnelle,"confiance (en soi, en les autres et en l'avenir)",0,50
+71,conditionneur,0,,1.0,2000,barbazan-debat,voiture,3,0,"empathie, comprendre la réalité","curiosité, aimer apprendre",intelligence émotionnelle,25,100
+72,agent de securite,0,,1.0,1850,bassercles,transports en commun,3,0,"esprit d'entreprendre, proactivité",résolution de problème,"empathie, comprendre la réalité",100,75
+73,etudiant,0,15,1.0,1700,baudreix,voiture,3,0,résolution de problème,"organisation du temps, respect de dates buttoires",intelligence émotionnelle,50,25
+74,bardeur,0,4,1.0,2000,bellocq,permis de conduire,1,0,"sens du collectif, partage","vision, voir le chemin pour arriver à l'objectif (dézoom)","créativité, générer des idées",50,25
+75,manutentionnaire,1,,1.0,2000,besingrand,permis de conduire,2,1,gestion du stress,intelligence émotionnelle,ponctualité,75,25
+76,operateur sur machine,1,13,1.0,1750,bésingrand,voiture,3,1,ponctualité,"sens du collectif, partage","confiance (en soi, en les autres et en l'avenir)",25,100
+77,conditionneuse cercleuse,1,15,1.0,1800,bidos,véhicule 2 roues,1,1,capacité et application d'une consigne,"motivation, donner du sens au delà de la tâche à effectuer","empathie, comprendre la réalité",50,75
+78,conditionneuse,1,,1.0,2100,billere,transports en commun,2,1,"créativité, générer des idées","motivation, donner du sens au delà de la tâche à effectuer",gestion du stress,50,0
+79,electricien batiment,1,,1.0,2100,billere,transports en commun,2,1,"esprit d'entreprendre, proactivité","empathie, comprendre la réalité","visualisation, zoom sur la mise en pratique des méthodes concrètes",0,25
+80,manutentionnaire,1,,1.0,1850,billere,transports en commun,3,1,"organisation du temps, respect de dates buttoires","créativité, générer des idées","vision, voir le chemin pour arriver à l'objectif (dézoom)",75,50
+81,manutentionnaire,0,0,1.0,1700,billere,véhicule 2 roues,4,0,capacité et application d'une consigne,ponctualité,"curiosité, aimer apprendre",75,0
+82,inventoriste,0,2,1.0,1950,billere,permis de conduire,3,0,"visualisation, zoom sur la mise en pratique des méthodes concrètes","créativité, générer des idées","empathie, comprendre la réalité",50,0
+83,conditionneur,0,,0.8,2100,billere,permis de conduire,3,0,capacité et application d'une consigne,intelligence émotionnelle,capacité et application d'une consigne,50,100
+84,manutentionnaire,1,8,0.8,1950,billere,voiture,4,1,"sens du collectif, partage",intelligence émotionnelle,"vision, voir le chemin pour arriver à l'objectif (dézoom)",75,25
+85,conditionneuse,1,5,0.8,1700,billere,véhicule 2 roues,1,1,"curiosité, aimer apprendre","motivation, donner du sens au delà de la tâche à effectuer",résolution de problème,0,75
+86,conditionneuse,0,5,0.5,2000,billere,transports en commun,3,0,"créativité, générer des idées",ponctualité,intelligence émotionnelle,50,100
+87,manutentionnaire,0,7,0.5,2100,billere,véhicule 2 roues,2,0,capacité et application d'une consigne,"esprit d'entreprendre, proactivité",intelligence émotionnelle,75,25
+88,manoeuvre,0,0,0.5,1850,billère,véhicule 2 roues,3,0,"organisation du temps, respect de dates buttoires",ponctualité,"organisation du temps, respect de dates buttoires",75,0
+89,conditionneuse,1,4,0.5,2100,billère,véhicule 2 roues,2,1,"sens du collectif, partage",résolution de problème,"organisation du temps, respect de dates buttoires",75,100
+90,cariste magasinier,1,11,0.5,2050,biron,véhicule 2 roues,1,1,"motivation, donner du sens au delà de la tâche à effectuer",ponctualité,"vision, voir le chemin pour arriver à l'objectif (dézoom)",50,25
+91,canalisateur vrd,1,7,0.33,2050,biron,transports en commun,3,1,"empathie, comprendre la réalité",intelligence émotionnelle,"audace, capacité à oser",25,50
+92,hotesse daccueil,1,10,1.0,1850,biron,permis de conduire,4,1,"sens du collectif, partage",intelligence émotionnelle,gestion du stress,75,100
+93,charpentier metal,1,15,1.0,1800,bonnut,voiture,4,1,"présence, capacité de concentration","sens du collectif, partage",gestion du stress,50,0
+94,chauffeur spl,1,15,1.0,1700,bonnut,voiture,3,1,"curiosité, aimer apprendre","audace, capacité à oser","sens du collectif, partage",0,100
+95,manutentionnaire,1,13,1.0,1950,bonnut,transports en commun,3,1,intelligence émotionnelle,"communication, faire passer un message","audace, capacité à oser",0,100
+96,macon tp,1,12,1.0,2050,bordes,permis de conduire,1,1,"esprit d'entreprendre, proactivité",gestion du stress,"organisation du temps, respect de dates buttoires",25,50
+97,agent de surveillance,0,8,1.0,1750,bostens,véhicule 2 roues,4,0,"vision, voir le chemin pour arriver à l'objectif (dézoom)","confiance (en soi, en les autres et en l'avenir)",intelligence émotionnelle,100,100
+98,conditionneuse,0,3,1.0,2050,brive la gaillarde,véhicule 2 roues,4,0,"motivation, donner du sens au delà de la tâche à effectuer","visualisation, zoom sur la mise en pratique des méthodes concrètes","vision, voir le chemin pour arriver à l'objectif (dézoom)",25,75
+99,cariste,0,12,1.0,1650,cambo-les-bains,transports en commun,2,0,"présence, capacité de concentration","curiosité, aimer apprendre","présence, capacité de concentration",75,0
+100,facteur,0,12,1.0,2050,casteide cami,voiture,1,0,intelligence émotionnelle,"présence, capacité de concentration",capacité et application d'une consigne,50,50
+101,conditionneuse,0,2,1.0,2100,casteide-cami,véhicule 2 roues,2,0,"empathie, comprendre la réalité","curiosité, aimer apprendre","esprit d'entreprendre, proactivité",0,25
+102,cariste magasinier,0,0,1.0,1950,casteide-cami,véhicule 2 roues,4,0,résolution de problème,résolution de problème,"créativité, générer des idées",75,100
+103,mecanicien,0,2,1.0,1850,casteide-cami,voiture,4,0,"motivation, donner du sens au delà de la tâche à effectuer","vision, voir le chemin pour arriver à l'objectif (dézoom)",gestion du stress,25,50
+104,secretaire comptable,0,7,1.0,2000,casteide-cami,voiture,1,0,"créativité, générer des idées","curiosité, aimer apprendre","communication, faire passer un message",75,0
+105,conditionneuse,1,2,1.0,1750,casteide-candau,permis de conduire,3,1,"motivation, donner du sens au delà de la tâche à effectuer","confiance (en soi, en les autres et en l'avenir)","présence, capacité de concentration",50,0
+106,conditionneuse,1,4,1.0,2050,castel-sarrazin,transports en commun,2,1,"présence, capacité de concentration","présence, capacité de concentration",résolution de problème,0,100
+107,conducteur pelle,1,5,1.0,2100,castel-sarrazin,véhicule 2 roues,2,1,gestion du stress,"sens du collectif, partage",résolution de problème,25,50
+108,plombier,0,0,1.0,1650,castel-sarrazin,transports en commun,3,0,intelligence émotionnelle,"curiosité, aimer apprendre","créativité, générer des idées",75,50
+109,femme de menage,1,2,1.0,1800,castetis,voiture,3,1,"motivation, donner du sens au delà de la tâche à effectuer",gestion du stress,"créativité, générer des idées",100,0
+110,conditionneur,1,,1.0,2000,castetis,permis de conduire,1,1,"vision, voir le chemin pour arriver à l'objectif (dézoom)","présence, capacité de concentration","sens du collectif, partage",50,25
+111,cariste,1,13,1.0,1850,castetis,permis de conduire,4,1,"vision, voir le chemin pour arriver à l'objectif (dézoom)","vision, voir le chemin pour arriver à l'objectif (dézoom)","empathie, comprendre la réalité",50,75
+112,electricien batiment,1,,1.0,1800,castetnau-camblong,transports en commun,1,1,"créativité, générer des idées",intelligence émotionnelle,"sens du collectif, partage",50,100
+113,conditionneur,0,8,1.0,1950,castetner,permis de conduire,2,0,résolution de problème,"confiance (en soi, en les autres et en l'avenir)","audace, capacité à oser",25,50
+114,manoeuvre,1,12,0.8,1800,castets,transports en commun,3,1,intelligence émotionnelle,"curiosité, aimer apprendre","présence, capacité de concentration",25,75
+115,manoeuvre btp,1,6,0.8,2100,castillon (canton darthez-de-,véhicule 2 roues,2,1,"sens du collectif, partage",gestion du stress,"présence, capacité de concentration",25,25
+116,agent de securite,1,,0.8,1750,cauneille,véhicule 2 roues,2,1,"créativité, générer des idées","curiosité, aimer apprendre",intelligence émotionnelle,75,0
+117,manutentionnaire,0,14,0.5,2000,caupenne-darmagnac,transports en commun,2,0,"motivation, donner du sens au delà de la tâche à effectuer","créativité, générer des idées","présence, capacité de concentration",75,75
+118,manoeuvre,1,15,0.5,1650,cescau,transports en commun,1,1,"organisation du temps, respect de dates buttoires",gestion du stress,"communication, faire passer un message",100,75
+119,manoeuvre,0,11,0.5,1750,cescau,voiture,3,0,gestion du stress,"vision, voir le chemin pour arriver à l'objectif (dézoom)","motivation, donner du sens au delà de la tâche à effectuer",0,75
+120,operateur polyvalent,1,,0.5,1800,cescau,permis de conduire,1,1,gestion du stress,"audace, capacité à oser","créativité, générer des idées",0,100
+121,manoeuvre,0,11,0.5,1900,cescau,voiture,2,0,"vision, voir le chemin pour arriver à l'objectif (dézoom)","créativité, générer des idées","vision, voir le chemin pour arriver à l'objectif (dézoom)",0,0
+122,conditionneuse,1,,0.33,1800,cescau,véhicule 2 roues,3,1,"communication, faire passer un message","présence, capacité de concentration","présence, capacité de concentration",75,0
+123,manoeuvre,0,14,1.0,1800,dax,véhicule 2 roues,2,0,gestion du stress,"vision, voir le chemin pour arriver à l'objectif (dézoom)","audace, capacité à oser",25,0
+124,agent de nettoyage industriel,0,1,1.0,2100,dax,voiture,3,0,"sens du collectif, partage","vision, voir le chemin pour arriver à l'objectif (dézoom)",ponctualité,75,75
+125,chauffeur tc,0,8,1.0,1650,denguin,voiture,4,0,résolution de problème,"motivation, donner du sens au delà de la tâche à effectuer",intelligence émotionnelle,100,25
+126,manutentionnaire,0,,1.0,2050,denguin,véhicule 2 roues,4,0,"motivation, donner du sens au delà de la tâche à effectuer","vision, voir le chemin pour arriver à l'objectif (dézoom)","vision, voir le chemin pour arriver à l'objectif (dézoom)",75,50
+127,plaquiste,0,3,1.0,1900,denguin,permis de conduire,2,0,"empathie, comprendre la réalité","communication, faire passer un message",résolution de problème,100,100
+128,agent de surveillance,0,,1.0,1950,denguin,permis de conduire,2,0,"organisation du temps, respect de dates buttoires","motivation, donner du sens au delà de la tâche à effectuer","empathie, comprendre la réalité",100,75
+129,manutentionnaire,1,9,1.0,1750,denguin,transports en commun,3,1,"confiance (en soi, en les autres et en l'avenir)","créativité, générer des idées",gestion du stress,25,25
+130,chauffeur pl/spl,1,,1.0,1850,denguin,véhicule 2 roues,4,1,"présence, capacité de concentration",gestion du stress,résolution de problème,0,0
+131,conditionneuse,1,,1.0,2100,denguin,voiture,3,1,"motivation, donner du sens au delà de la tâche à effectuer","organisation du temps, respect de dates buttoires",capacité et application d'une consigne,75,100
+132,ebavureur,0,15,1.0,1850,denguin,permis de conduire,4,0,"sens du collectif, partage","motivation, donner du sens au delà de la tâche à effectuer","curiosité, aimer apprendre",25,50
+133,conditionneuse,1,15,1.0,1750,denguin,permis de conduire,1,1,"vision, voir le chemin pour arriver à l'objectif (dézoom)",gestion du stress,"curiosité, aimer apprendre",100,50
+134,ouvrier espaces verts,1,1,1.0,2000,denguin,permis de conduire,2,1,"créativité, générer des idées","motivation, donner du sens au delà de la tâche à effectuer",capacité et application d'une consigne,75,0
+135,agent de securite,0,16,1.0,2100,denguin,permis de conduire,1,0,"sens du collectif, partage",intelligence émotionnelle,ponctualité,75,25
+136,manutentionnaire,0,,1.0,1650,doazon,voiture,1,0,ponctualité,"sens du collectif, partage",gestion du stress,75,50
+137,cariste-rouleur,0,5,1.0,2000,doazon,permis de conduire,2,0,capacité et application d'une consigne,"créativité, générer des idées","confiance (en soi, en les autres et en l'avenir)",50,75
+138,agent de securite,0,2,1.0,1650,doazon,véhicule 2 roues,1,0,"présence, capacité de concentration","organisation du temps, respect de dates buttoires",résolution de problème,75,50
+139,technicien maintenance,1,7,1.0,1900,escout,permis de conduire,2,1,résolution de problème,"créativité, générer des idées","organisation du temps, respect de dates buttoires",100,0
+140,manutentionnaire,1,2,1.0,1900,esquiule,transports en commun,3,1,"confiance (en soi, en les autres et en l'avenir)","sens du collectif, partage","vision, voir le chemin pour arriver à l'objectif (dézoom)",100,75
+141,agent de production,0,1,1.0,2050,estos,transports en commun,1,0,"motivation, donner du sens au delà de la tâche à effectuer",résolution de problème,gestion du stress,25,75
+142,agent dentretien,1,1,1.0,2100,eysus,véhicule 2 roues,2,1,"présence, capacité de concentration",capacité et application d'une consigne,"curiosité, aimer apprendre",0,50
+143,menuisier poseur,1,2,1.0,1900,gaujacq,voiture,1,1,intelligence émotionnelle,résolution de problème,intelligence émotionnelle,100,25
+144,manutentionnaire,1,4,1.0,1850,gelos,véhicule 2 roues,3,1,"confiance (en soi, en les autres et en l'avenir)","communication, faire passer un message","créativité, générer des idées",75,25
+145,conditionneuse,1,14,0.8,1650,gelos,transports en commun,3,1,ponctualité,"esprit d'entreprendre, proactivité",capacité et application d'une consigne,25,50
+146,conducteur pelle,0,4,0.8,2100,ger,voiture,3,0,"vision, voir le chemin pour arriver à l'objectif (dézoom)",gestion du stress,"communication, faire passer un message",0,0
+147,serveuse,0,5,0.8,2050,gurmencon,véhicule 2 roues,1,0,résolution de problème,gestion du stress,"créativité, générer des idées",0,100
+148,manoeuvre btp,1,10,0.5,1900,hagetaubin,permis de conduire,1,1,"motivation, donner du sens au delà de la tâche à effectuer","visualisation, zoom sur la mise en pratique des méthodes concrètes",ponctualité,75,50
+149,manoeuvre,0,,0.5,1800,hagetaubin,transports en commun,1,0,"motivation, donner du sens au delà de la tâche à effectuer","créativité, générer des idées",capacité et application d'une consigne,50,75
+150,chauffeur pl,0,13,0.5,1950,hagetaubin,véhicule 2 roues,4,0,capacité et application d'une consigne,"esprit d'entreprendre, proactivité","motivation, donner du sens au delà de la tâche à effectuer",0,75
+151,inventoriste,1,15,0.5,1650,hagetaubin,voiture,4,1,résolution de problème,capacité et application d'une consigne,"motivation, donner du sens au delà de la tâche à effectuer",100,50
+152,operateur polyvalent,1,2,0.5,1700,hagetaubin,transports en commun,3,1,"motivation, donner du sens au delà de la tâche à effectuer",résolution de problème,"motivation, donner du sens au delà de la tâche à effectuer",0,100
+153,chef monteur,1,14,0.33,1650,hagetmau,véhicule 2 roues,1,1,capacité et application d'une consigne,"empathie, comprendre la réalité","créativité, générer des idées",25,0
+154,conditionneuse,0,9,1.0,2000,hasparren,véhicule 2 roues,2,0,"empathie, comprendre la réalité","vision, voir le chemin pour arriver à l'objectif (dézoom)","audace, capacité à oser",25,100
+155,inventoriste,1,16,1.0,2100,hauts de bienne,transports en commun,3,1,capacité et application d'une consigne,"visualisation, zoom sur la mise en pratique des méthodes concrètes","curiosité, aimer apprendre",50,25
+156,manoeuvre,1,15,1.0,1850,jurancon,voiture,4,1,"communication, faire passer un message","visualisation, zoom sur la mise en pratique des méthodes concrètes","motivation, donner du sens au delà de la tâche à effectuer",50,0
+157,monteur,0,9,1.0,2050,jurancon,voiture,4,0,résolution de problème,"motivation, donner du sens au delà de la tâche à effectuer",capacité et application d'une consigne,0,50
+158,manoeuvre,1,9,1.0,1850,jurancon,véhicule 2 roues,4,1,gestion du stress,"empathie, comprendre la réalité","empathie, comprendre la réalité",75,25
+159,manutentionnaire,0,15,1.0,1950,jurancon,voiture,2,0,"empathie, comprendre la réalité",gestion du stress,intelligence émotionnelle,100,0
+160,cariste magasinier,0,,1.0,2000,jurancon,voiture,3,0,intelligence émotionnelle,"organisation du temps, respect de dates buttoires",intelligence émotionnelle,75,50
+161,conditionneuse,0,,1.0,2100,jurançon,voiture,2,0,intelligence émotionnelle,"empathie, comprendre la réalité",intelligence émotionnelle,0,50
+162,agent de securite,0,9,1.0,1700,labastide cezeracq,permis de conduire,1,0,"visualisation, zoom sur la mise en pratique des méthodes concrètes",capacité et application d'une consigne,"empathie, comprendre la réalité",75,0
+163,manoeuvre,1,0,1.0,1650,labastide monrejeau,voiture,4,1,résolution de problème,"confiance (en soi, en les autres et en l'avenir)","visualisation, zoom sur la mise en pratique des méthodes concrètes",0,100
+164,electricien n3 p2,0,,1.0,1850,labastide-cezeracq,transports en commun,4,0,"communication, faire passer un message","sens du collectif, partage","sens du collectif, partage",75,100
+165,peintre carrossier,0,,1.0,2000,labastide-monrejeau,véhicule 2 roues,1,0,"sens du collectif, partage","vision, voir le chemin pour arriver à l'objectif (dézoom)","confiance (en soi, en les autres et en l'avenir)",100,0
+166,serveuse,1,10,1.0,1700,labastide-monrejeau,véhicule 2 roues,3,1,capacité et application d'une consigne,résolution de problème,"organisation du temps, respect de dates buttoires",0,100
+167,conditionneur,0,4,1.0,2100,labastide-monrejeau,voiture,1,0,"présence, capacité de concentration","curiosité, aimer apprendre","curiosité, aimer apprendre",75,25
+168,aide charpentier,1,10,1.0,2000,labastide-monrejeau,véhicule 2 roues,4,1,"organisation du temps, respect de dates buttoires","communication, faire passer un message","audace, capacité à oser",50,25
+169,conducteur dengins,0,0,1.0,2050,labatut,permis de conduire,4,0,gestion du stress,"esprit d'entreprendre, proactivité","motivation, donner du sens au delà de la tâche à effectuer",100,50
+170,chauffeur spl,0,,1.0,1650,lacadee,permis de conduire,3,0,ponctualité,"confiance (en soi, en les autres et en l'avenir)","confiance (en soi, en les autres et en l'avenir)",50,0
+171,manutentionnaire,0,12,1.0,1750,lacq,véhicule 2 roues,1,0,ponctualité,"empathie, comprendre la réalité","présence, capacité de concentration",0,50
+172,manoeuvre,0,16,1.0,1900,lacq,transports en commun,3,0,"empathie, comprendre la réalité",intelligence émotionnelle,"confiance (en soi, en les autres et en l'avenir)",75,100
+173,ouvrier agroalimentaire,1,12,1.0,1900,lacq,permis de conduire,4,1,"créativité, générer des idées",intelligence émotionnelle,"sens du collectif, partage",0,100
+174,chauffeur spl,1,,1.0,1800,lacq,permis de conduire,3,1,ponctualité,résolution de problème,"organisation du temps, respect de dates buttoires",50,75
+175,conditionneur,1,2,1.0,1750,lacq,permis de conduire,2,1,"visualisation, zoom sur la mise en pratique des méthodes concrètes","vision, voir le chemin pour arriver à l'objectif (dézoom)","motivation, donner du sens au delà de la tâche à effectuer",0,50
+176,agent de clientele,0,,0.8,1650,lacq,voiture,2,0,"curiosité, aimer apprendre","motivation, donner du sens au delà de la tâche à effectuer",capacité et application d'une consigne,75,50
+177,inventoriste,0,8,0.8,1750,lacq,voiture,4,0,"esprit d'entreprendre, proactivité","esprit d'entreprendre, proactivité",ponctualité,0,50
+178,caces cariste 3,0,9,0.8,1650,lacq,transports en commun,3,0,intelligence émotionnelle,"audace, capacité à oser","créativité, générer des idées",75,100
+179,manutentionnaire,0,16,0.5,2050,lacq,véhicule 2 roues,1,0,"vision, voir le chemin pour arriver à l'objectif (dézoom)","motivation, donner du sens au delà de la tâche à effectuer","vision, voir le chemin pour arriver à l'objectif (dézoom)",0,0
+180,agent de securite,0,15,0.5,1700,lagor,véhicule 2 roues,2,0,"confiance (en soi, en les autres et en l'avenir)","présence, capacité de concentration","confiance (en soi, en les autres et en l'avenir)",100,25
+181,menuisier poseur,1,2,0.5,1700,lagor,transports en commun,2,1,"motivation, donner du sens au delà de la tâche à effectuer",gestion du stress,"audace, capacité à oser",75,100
+182,caces cariste 3,0,0,0.5,1850,lagor,transports en commun,1,0,"créativité, générer des idées",intelligence émotionnelle,"créativité, générer des idées",100,50
+183,mecanicien,1,6,0.5,2100,lahontan,voiture,3,1,"organisation du temps, respect de dates buttoires",intelligence émotionnelle,ponctualité,50,25
+184,manutentionnaire,1,13,0.33,1700,lahourcade,transports en commun,3,1,gestion du stress,"empathie, comprendre la réalité",ponctualité,0,25
+185,manutentionnaire,1,11,1.0,2050,lahourcade,voiture,1,1,"curiosité, aimer apprendre",ponctualité,ponctualité,75,100
+186,cariste,1,3,1.0,2050,lahourcade,voiture,2,1,"audace, capacité à oser","communication, faire passer un message","vision, voir le chemin pour arriver à l'objectif (dézoom)",75,0
+187,nettoyeur indus.,0,,1.0,1800,lasseubetat,voiture,2,0,"audace, capacité à oser","curiosité, aimer apprendre","motivation, donner du sens au delà de la tâche à effectuer",0,75
+188,manoeuvre,1,11,1.0,1900,lendrese,transports en commun,3,1,"communication, faire passer un message","organisation du temps, respect de dates buttoires",résolution de problème,25,25
+189,chargée de clientèle,0,1,1.0,2050,lescar,véhicule 2 roues,3,0,résolution de problème,"communication, faire passer un message",gestion du stress,100,100
+190,operateur polyvalent,1,,1.0,1850,lescar,transports en commun,3,1,gestion du stress,résolution de problème,"présence, capacité de concentration",100,75
+191,elecrticien industriel,0,7,1.0,1950,lescar,voiture,1,0,"sens du collectif, partage","communication, faire passer un message",résolution de problème,0,0
+192,mecanicien,1,13,1.0,1650,lescar,permis de conduire,3,1,"audace, capacité à oser","confiance (en soi, en les autres et en l'avenir)",résolution de problème,50,100
+193,plaquiste,0,6,1.0,1650,lescar,voiture,4,0,"visualisation, zoom sur la mise en pratique des méthodes concrètes","présence, capacité de concentration","présence, capacité de concentration",0,75
+194,inventoriste,0,,1.0,1800,lescar,véhicule 2 roues,1,0,"confiance (en soi, en les autres et en l'avenir)","curiosité, aimer apprendre","audace, capacité à oser",50,0
+195,manutentionnaire,1,8,1.0,1650,lescar,voiture,2,1,"esprit d'entreprendre, proactivité","esprit d'entreprendre, proactivité","empathie, comprendre la réalité",0,75
+196,conditionneuse,1,,1.0,1650,lescar,véhicule 2 roues,3,1,"visualisation, zoom sur la mise en pratique des méthodes concrètes",ponctualité,"présence, capacité de concentration",75,75
+197,conditionneuse,1,,1.0,1800,lescar,transports en commun,2,1,"sens du collectif, partage","audace, capacité à oser","confiance (en soi, en les autres et en l'avenir)",50,0
+198,chauffeur pl,1,,1.0,2050,lhopital-saint-blaise,voiture,1,1,"curiosité, aimer apprendre",résolution de problème,"confiance (en soi, en les autres et en l'avenir)",0,25
+199,inventoriste,0,8,1.0,1900,lons,voiture,4,0,"confiance (en soi, en les autres et en l'avenir)",ponctualité,"curiosité, aimer apprendre",100,100
+200,chauffeur pl,1,0,1.0,1800,lons,véhicule 2 roues,2,1,"curiosité, aimer apprendre","communication, faire passer un message","présence, capacité de concentration",0,50
+201,boucher,1,,1.0,1650,lons,permis de conduire,4,1,"visualisation, zoom sur la mise en pratique des méthodes concrètes",capacité et application d'une consigne,"visualisation, zoom sur la mise en pratique des méthodes concrètes",50,50
+202,serveuse,0,7,1.0,1850,lons,voiture,1,0,"esprit d'entreprendre, proactivité","sens du collectif, partage","communication, faire passer un message",75,75
+203,conducteur dengins,1,4,1.0,1750,lons,véhicule 2 roues,4,1,résolution de problème,"curiosité, aimer apprendre",capacité et application d'une consigne,100,100
+204,plombier,0,14,1.0,2000,lons,permis de conduire,4,0,"visualisation, zoom sur la mise en pratique des méthodes concrètes","communication, faire passer un message","organisation du temps, respect de dates buttoires",50,0
+205,manutentionnaire,1,8,1.0,1750,loubieng,permis de conduire,3,1,"créativité, générer des idées",gestion du stress,"présence, capacité de concentration",100,0
+206,conditionneur,0,6,1.0,1900,loubieng,permis de conduire,3,0,"audace, capacité à oser","visualisation, zoom sur la mise en pratique des méthodes concrètes","visualisation, zoom sur la mise en pratique des méthodes concrètes",100,0
+207,manoeuvre,0,12,0.8,1750,lourdios ichere,voiture,4,0,résolution de problème,"créativité, générer des idées","créativité, générer des idées",75,0
+208,technicien maintenance,0,5,0.8,1700,lucq-de-béarn,permis de conduire,3,0,"communication, faire passer un message","créativité, générer des idées","organisation du temps, respect de dates buttoires",100,100
+209,inventoriste,0,8,0.8,1900,malaussanne,voiture,1,0,gestion du stress,"curiosité, aimer apprendre",résolution de problème,0,0
+210,cercleur,0,2,0.5,1700,marseille 08,permis de conduire,4,0,"visualisation, zoom sur la mise en pratique des méthodes concrètes",gestion du stress,capacité et application d'une consigne,0,0
+211,conducteur dengins,0,2,0.5,2000,maslacq,permis de conduire,2,0,"confiance (en soi, en les autres et en l'avenir)",gestion du stress,"visualisation, zoom sur la mise en pratique des méthodes concrètes",50,50
+212,manutentionnaire,0,15,0.5,1850,maslacq,voiture,1,0,"visualisation, zoom sur la mise en pratique des méthodes concrètes","audace, capacité à oser",résolution de problème,25,25
+213,plombier,1,5,0.5,1750,maslacq,permis de conduire,3,1,"confiance (en soi, en les autres et en l'avenir)","sens du collectif, partage","visualisation, zoom sur la mise en pratique des méthodes concrètes",100,100
+214,agent de securite,1,5,0.5,2050,maslacq,permis de conduire,1,1,"confiance (en soi, en les autres et en l'avenir)","présence, capacité de concentration",capacité et application d'une consigne,75,100
+215,caces cariste 3,0,12,0.33,1700,maslacq,véhicule 2 roues,4,0,ponctualité,"sens du collectif, partage","empathie, comprendre la réalité",50,100
+216,chauffeur pl,1,,1.0,2000,maslacq,voiture,4,1,"sens du collectif, partage",ponctualité,"audace, capacité à oser",25,75
+217,operateur en chimie,1,,1.0,1800,maslacq,transports en commun,2,1,"esprit d'entreprendre, proactivité","vision, voir le chemin pour arriver à l'objectif (dézoom)","sens du collectif, partage",0,0
+218,menuisier agencement,1,7,1.0,1850,mazerolles,transports en commun,1,1,capacité et application d'une consigne,ponctualité,intelligence émotionnelle,50,25
+219,conditionneuse,0,7,1.0,1800,mazerolles,permis de conduire,4,0,résolution de problème,"visualisation, zoom sur la mise en pratique des méthodes concrètes","communication, faire passer un message",0,100
+220,cariste,0,10,1.0,2000,meritein,permis de conduire,2,0,"créativité, générer des idées","motivation, donner du sens au delà de la tâche à effectuer",résolution de problème,25,75
+221,inventoriste,1,7,1.0,1650,mialos,véhicule 2 roues,3,1,"sens du collectif, partage","confiance (en soi, en les autres et en l'avenir)",résolution de problème,75,50
+222,manutentionnaire,1,11,1.0,1900,miossens-lanusse,permis de conduire,3,1,"audace, capacité à oser","sens du collectif, partage",gestion du stress,50,75
+223,animatrice (teur),0,1,1.0,1900,monein,transports en commun,2,0,"audace, capacité à oser",intelligence émotionnelle,"présence, capacité de concentration",0,75
+224,manoeuvre,1,0,1.0,1650,monein,voiture,4,1,"audace, capacité à oser","curiosité, aimer apprendre","créativité, générer des idées",75,75
+225,chauffeur spl,1,9,1.0,2100,monein,transports en commun,3,1,"motivation, donner du sens au delà de la tâche à effectuer","sens du collectif, partage","audace, capacité à oser",75,0
+226,facteur,1,10,1.0,2050,monein,voiture,3,1,"sens du collectif, partage","vision, voir le chemin pour arriver à l'objectif (dézoom)","motivation, donner du sens au delà de la tâche à effectuer",75,25
+227,manoeuvre,1,3,1.0,2100,monein,transports en commun,1,1,"créativité, générer des idées","curiosité, aimer apprendre","communication, faire passer un message",0,0
+228,manutentionnaire,1,8,1.0,1750,monein,permis de conduire,4,1,"curiosité, aimer apprendre","sens du collectif, partage",intelligence émotionnelle,100,0
+229,manutentionnaire,0,,1.0,1700,monein,permis de conduire,4,0,"empathie, comprendre la réalité","audace, capacité à oser","curiosité, aimer apprendre",100,100
+230,agent de securite,0,0,1.0,1650,monein,véhicule 2 roues,3,0,"confiance (en soi, en les autres et en l'avenir)","motivation, donner du sens au delà de la tâche à effectuer","sens du collectif, partage",25,100
+231,electricien equip. indus.,1,,1.0,1750,monein,transports en commun,1,1,ponctualité,gestion du stress,résolution de problème,100,0
+232,conditionneuse,1,16,1.0,1950,monein,transports en commun,2,1,ponctualité,"curiosité, aimer apprendre","communication, faire passer un message",0,50
+233,manoeuvre,1,3,1.0,1650,monein,voiture,1,1,"créativité, générer des idées",capacité et application d'une consigne,"empathie, comprendre la réalité",100,50
+234,manutentionnaire,1,,1.0,1650,monein,véhicule 2 roues,4,1,"sens du collectif, partage",gestion du stress,"sens du collectif, partage",0,50
+235,chauffeur pl,1,8,1.0,2000,monein,véhicule 2 roues,2,1,"présence, capacité de concentration","organisation du temps, respect de dates buttoires",ponctualité,50,0
+236,chaudronnier,0,0,1.0,1900,monein,permis de conduire,2,0,"vision, voir le chemin pour arriver à l'objectif (dézoom)","communication, faire passer un message","esprit d'entreprendre, proactivité",75,25
+237,chaudronnier soudeur,0,,1.0,1900,monein,permis de conduire,2,0,"visualisation, zoom sur la mise en pratique des méthodes concrètes",ponctualité,ponctualité,50,75
+238,agent de securite,0,15,0.8,2100,monein,permis de conduire,1,0,"audace, capacité à oser","motivation, donner du sens au delà de la tâche à effectuer","communication, faire passer un message",75,25
+239,agent de securite,1,7,0.8,1950,monein,voiture,1,1,"esprit d'entreprendre, proactivité","organisation du temps, respect de dates buttoires",gestion du stress,75,100
+240,serrurier,0,3,0.8,2050,monein,véhicule 2 roues,4,0,"sens du collectif, partage","motivation, donner du sens au delà de la tâche à effectuer","esprit d'entreprendre, proactivité",25,25
+241,conditionneur,0,16,0.5,1850,monein,voiture,4,0,"sens du collectif, partage","présence, capacité de concentration","curiosité, aimer apprendre",0,0
+242,peintre batiment,0,14,0.5,1800,mont,permis de conduire,2,0,"confiance (en soi, en les autres et en l'avenir)","créativité, générer des idées","esprit d'entreprendre, proactivité",75,50
+243,serrurier soudeur,0,2,0.5,2100,mont,transports en commun,1,0,capacité et application d'une consigne,"audace, capacité à oser",gestion du stress,0,75
+244,manutentionnaire,0,15,0.5,1900,mont,voiture,1,0,"visualisation, zoom sur la mise en pratique des méthodes concrètes",résolution de problème,"organisation du temps, respect de dates buttoires",0,75
+245,cariste,1,14,0.5,1750,mont,véhicule 2 roues,2,1,"visualisation, zoom sur la mise en pratique des méthodes concrètes","empathie, comprendre la réalité","communication, faire passer un message",0,100
+246,conditionneuse,1,,0.33,1700,mont,transports en commun,2,1,"vision, voir le chemin pour arriver à l'objectif (dézoom)","vision, voir le chemin pour arriver à l'objectif (dézoom)","confiance (en soi, en les autres et en l'avenir)",25,75
+247,conditionneuse,0,,1.0,1750,mont,véhicule 2 roues,1,0,"motivation, donner du sens au delà de la tâche à effectuer","communication, faire passer un message","sens du collectif, partage",100,0
+248,agent de securite,0,16,1.0,2000,mont,voiture,1,0,"communication, faire passer un message","visualisation, zoom sur la mise en pratique des méthodes concrètes",ponctualité,75,0
+249,cariste,1,16,1.0,1700,mont,véhicule 2 roues,3,1,"audace, capacité à oser",capacité et application d'une consigne,capacité et application d'une consigne,75,0
+250,manoeuvre,0,8,1.0,1650,mont,voiture,1,0,"curiosité, aimer apprendre","présence, capacité de concentration","communication, faire passer un message",100,100
+251,conditionneuse,0,4,1.0,2000,mont,transports en commun,1,0,"audace, capacité à oser",résolution de problème,ponctualité,75,0
+252,manoeuvre,0,15,1.0,1800,mont,véhicule 2 roues,1,0,"curiosité, aimer apprendre","communication, faire passer un message","curiosité, aimer apprendre",50,25
+253,conditionneur,1,8,1.0,2000,mont,permis de conduire,4,1,"confiance (en soi, en les autres et en l'avenir)",intelligence émotionnelle,"visualisation, zoom sur la mise en pratique des méthodes concrètes",50,50
+254,chauffeur vl,1,11,1.0,1750,mont,véhicule 2 roues,4,1,gestion du stress,"audace, capacité à oser","présence, capacité de concentration",0,0
+255,menuisier alu,0,8,1.0,2050,montagut,transports en commun,1,0,résolution de problème,intelligence émotionnelle,"créativité, générer des idées",0,0
+256,cariste,1,3,1.0,1650,montgaillard,permis de conduire,1,1,"communication, faire passer un message","présence, capacité de concentration","empathie, comprendre la réalité",100,75
+257,chauffeur de bus,0,14,1.0,1850,morlaas,permis de conduire,2,0,résolution de problème,résolution de problème,ponctualité,50,50
+258,soudeur,0,11,1.0,1650,morlaas,véhicule 2 roues,3,0,"communication, faire passer un message","créativité, générer des idées","communication, faire passer un message",0,25
+259,serveur,0,7,1.0,2050,moumour,véhicule 2 roues,2,0,"vision, voir le chemin pour arriver à l'objectif (dézoom)",intelligence émotionnelle,intelligence émotionnelle,50,50
+260,inventoriste,1,15,1.0,2050,mourenx,voiture,4,1,"curiosité, aimer apprendre","esprit d'entreprendre, proactivité","esprit d'entreprendre, proactivité",100,25
+261,conditionneuse,1,9,1.0,1700,mourenx,véhicule 2 roues,4,1,capacité et application d'une consigne,"présence, capacité de concentration",intelligence émotionnelle,0,50
+262,conditionneuse,1,15,1.0,1950,mourenx,voiture,3,1,"sens du collectif, partage","vision, voir le chemin pour arriver à l'objectif (dézoom)","créativité, générer des idées",25,100
+263,manoeuvre industrie,1,14,1.0,1650,mourenx,transports en commun,2,1,ponctualité,"curiosité, aimer apprendre","audace, capacité à oser",75,25
+264,menuisier pvc metal,0,,1.0,1800,mourenx,permis de conduire,1,0,"créativité, générer des idées",gestion du stress,"confiance (en soi, en les autres et en l'avenir)",50,100
+265,conditionneuse,1,5,1.0,1800,mourenx,permis de conduire,1,1,capacité et application d'une consigne,"visualisation, zoom sur la mise en pratique des méthodes concrètes","présence, capacité de concentration",75,75
+266,conditionneuse,0,8,1.0,2000,mourenx,véhicule 2 roues,2,0,intelligence émotionnelle,"confiance (en soi, en les autres et en l'avenir)","empathie, comprendre la réalité",100,100
+267,operateur polyvalent,0,5,1.0,1650,mourenx,transports en commun,4,0,capacité et application d'une consigne,"empathie, comprendre la réalité","visualisation, zoom sur la mise en pratique des méthodes concrètes",25,100
+268,ebavureur,1,,1.0,2100,mourenx,permis de conduire,4,1,résolution de problème,capacité et application d'une consigne,ponctualité,50,75
+269,conditionneuse,0,2,0.8,1700,mourenx,transports en commun,1,0,"confiance (en soi, en les autres et en l'avenir)","empathie, comprendre la réalité","empathie, comprendre la réalité",75,0
+270,inventoriste,1,13,0.8,1950,mourenx,voiture,2,1,"vision, voir le chemin pour arriver à l'objectif (dézoom)",intelligence émotionnelle,gestion du stress,50,75
+271,manoeuvre,1,5,0.8,1850,mourenx,permis de conduire,4,1,"empathie, comprendre la réalité","motivation, donner du sens au delà de la tâche à effectuer","confiance (en soi, en les autres et en l'avenir)",0,100
+272,manutentionnaire,0,9,0.5,1800,mourenx,transports en commun,1,0,"créativité, générer des idées","présence, capacité de concentration",ponctualité,25,0
+273,mecanicien,1,10,0.5,1950,mourenx,voiture,2,1,"curiosité, aimer apprendre","sens du collectif, partage","confiance (en soi, en les autres et en l'avenir)",0,50
+274,manutentionnaire,0,,0.5,2100,mourenx,transports en commun,1,0,intelligence émotionnelle,capacité et application d'une consigne,capacité et application d'une consigne,50,75
+275,agent de securite,0,6,0.5,1900,mourenx,véhicule 2 roues,4,0,"curiosité, aimer apprendre","présence, capacité de concentration","sens du collectif, partage",50,25
+276,agent de securite,0,15,0.5,1700,mourenx,permis de conduire,3,0,"esprit d'entreprendre, proactivité","organisation du temps, respect de dates buttoires","présence, capacité de concentration",100,100
+277,conditionneuse,0,3,0.33,1700,mourenx,véhicule 2 roues,1,0,"esprit d'entreprendre, proactivité","audace, capacité à oser","vision, voir le chemin pour arriver à l'objectif (dézoom)",0,25
+278,conditonneuse,1,,1.0,2050,mourenx,véhicule 2 roues,2,1,"visualisation, zoom sur la mise en pratique des méthodes concrètes","créativité, générer des idées","créativité, générer des idées",100,25
+279,manutentionnaire,1,,1.0,1650,mourenx,voiture,2,1,"sens du collectif, partage","présence, capacité de concentration",gestion du stress,75,25
+280,ouvrier espaces verts,0,3,1.0,1850,mourenx,véhicule 2 roues,4,0,"organisation du temps, respect de dates buttoires","curiosité, aimer apprendre","créativité, générer des idées",0,0
+281,monteur,1,8,1.0,2100,mourenx,permis de conduire,1,1,intelligence émotionnelle,"confiance (en soi, en les autres et en l'avenir)","visualisation, zoom sur la mise en pratique des méthodes concrètes",75,50
+282,conditionneuse,1,0,1.0,1700,mourenx,permis de conduire,1,1,"visualisation, zoom sur la mise en pratique des méthodes concrètes","visualisation, zoom sur la mise en pratique des méthodes concrètes","empathie, comprendre la réalité",75,50
+283,chauffeur pl,0,,1.0,2000,mourenx,voiture,2,0,"visualisation, zoom sur la mise en pratique des méthodes concrètes","empathie, comprendre la réalité",gestion du stress,25,75
+284,mecanicien,1,6,1.0,2100,mourenx,voiture,3,1,"confiance (en soi, en les autres et en l'avenir)","communication, faire passer un message",capacité et application d'une consigne,0,100
+285,conditionneuse,1,8,1.0,1650,mourenx,véhicule 2 roues,1,1,ponctualité,"esprit d'entreprendre, proactivité",résolution de problème,50,50
+286,peintre batiment,1,15,1.0,1900,mourenx,voiture,2,1,"présence, capacité de concentration","audace, capacité à oser","sens du collectif, partage",75,50
+287,chauffeur pl,0,10,1.0,2100,mourenx,voiture,3,0,"vision, voir le chemin pour arriver à l'objectif (dézoom)","empathie, comprendre la réalité",capacité et application d'une consigne,25,75
+288,peintre industriel,0,13,1.0,1950,mourenx,voiture,1,0,résolution de problème,"présence, capacité de concentration","curiosité, aimer apprendre",75,25
+289,inventoriste,1,,1.0,1900,mourenx,transports en commun,3,1,"esprit d'entreprendre, proactivité","audace, capacité à oser",gestion du stress,0,50
+290,assitante commerciale,1,13,1.0,1750,mourenx,permis de conduire,3,1,"présence, capacité de concentration","audace, capacité à oser","créativité, générer des idées",75,75
+291,agent de production,0,11,1.0,1950,mourenx,permis de conduire,4,0,"confiance (en soi, en les autres et en l'avenir)","audace, capacité à oser","empathie, comprendre la réalité",25,75
+292,fleuriste,1,4,1.0,1750,mourenx,permis de conduire,3,1,capacité et application d'une consigne,"curiosité, aimer apprendre","créativité, générer des idées",25,0
+293,conditionneuse,0,6,1.0,2000,mourenx,transports en commun,3,0,"esprit d'entreprendre, proactivité","motivation, donner du sens au delà de la tâche à effectuer",gestion du stress,75,25
+294,peintre batiment,0,,1.0,1650,mourenx,voiture,1,0,intelligence émotionnelle,gestion du stress,gestion du stress,75,50
+295,conditionneuse,0,8,1.0,1950,mourenx,véhicule 2 roues,2,0,"organisation du temps, respect de dates buttoires","empathie, comprendre la réalité",résolution de problème,50,50
+296,agent de securite,1,6,1.0,1900,mourenx,transports en commun,2,1,"communication, faire passer un message","sens du collectif, partage","présence, capacité de concentration",100,100
+297,manoeuvre,0,,1.0,1700,mourenx,voiture,4,0,"audace, capacité à oser","vision, voir le chemin pour arriver à l'objectif (dézoom)","confiance (en soi, en les autres et en l'avenir)",50,100
+298,conditionneuse,0,7,1.0,2050,mourenx,transports en commun,4,0,"audace, capacité à oser","vision, voir le chemin pour arriver à l'objectif (dézoom)","créativité, générer des idées",0,25
+299,monteur echaffaudeur,0,,1.0,1850,mourenx,véhicule 2 roues,4,0,intelligence émotionnelle,"sens du collectif, partage",résolution de problème,75,50
+300,manutentionnaire,0,14,0.8,1750,mourenx,véhicule 2 roues,3,0,"audace, capacité à oser","audace, capacité à oser",capacité et application d'une consigne,75,75
+301,soudeur,0,14,0.8,1650,mourenx,voiture,2,0,"communication, faire passer un message","empathie, comprendre la réalité","présence, capacité de concentration",25,75
+302,manoeuvre,1,13,0.8,2100,mourenx,transports en commun,2,1,"vision, voir le chemin pour arriver à l'objectif (dézoom)","esprit d'entreprendre, proactivité","audace, capacité à oser",100,75
+303,ouvrier espaces verts,1,16,0.5,2000,mourenx,transports en commun,4,1,"visualisation, zoom sur la mise en pratique des méthodes concrètes","communication, faire passer un message",intelligence émotionnelle,0,0
+304,conditionneuse,0,,0.5,2000,mourenx,véhicule 2 roues,4,0,capacité et application d'une consigne,"visualisation, zoom sur la mise en pratique des méthodes concrètes","présence, capacité de concentration",75,75
+305,conditionneuse,0,,0.5,2000,mourenx,voiture,2,0,"esprit d'entreprendre, proactivité","curiosité, aimer apprendre",intelligence émotionnelle,0,50
+306,manoeuvre industrie,0,,0.5,1950,mourenx,transports en commun,4,0,"visualisation, zoom sur la mise en pratique des méthodes concrètes","présence, capacité de concentration","motivation, donner du sens au delà de la tâche à effectuer",75,100
+307,teleconseillère,0,8,0.5,1650,narp,transports en commun,2,0,"créativité, générer des idées",résolution de problème,intelligence émotionnelle,50,50
+308,inventoriste,1,7,0.33,1900,navarrenx,permis de conduire,2,1,"empathie, comprendre la réalité",capacité et application d'une consigne,capacité et application d'une consigne,75,75
+309,controleur qualite,1,15,1.0,1700,navarrenx,transports en commun,1,1,capacité et application d'une consigne,"vision, voir le chemin pour arriver à l'objectif (dézoom)",capacité et application d'une consigne,50,100
+310,manutentionnaire,1,13,1.0,1900,navarrenx,permis de conduire,2,1,"audace, capacité à oser",ponctualité,"présence, capacité de concentration",100,75
+311,paysagiste,1,16,1.0,2000,nay,transports en commun,2,1,"visualisation, zoom sur la mise en pratique des méthodes concrètes","sens du collectif, partage","empathie, comprendre la réalité",75,25
+312,inventoriste,1,16,1.0,1850,nogueres,transports en commun,1,1,"confiance (en soi, en les autres et en l'avenir)","audace, capacité à oser","confiance (en soi, en les autres et en l'avenir)",0,25
+313,inventoriste,1,2,1.0,2100,oloron ste marie,véhicule 2 roues,2,1,"organisation du temps, respect de dates buttoires","vision, voir le chemin pour arriver à l'objectif (dézoom)","sens du collectif, partage",50,50
+314,rippeur,0,11,1.0,1650,oloron-sainte-marie,véhicule 2 roues,3,0,"sens du collectif, partage",résolution de problème,"esprit d'entreprendre, proactivité",25,50
+315,agent de production,0,0,1.0,1850,oloron-sainte-marie,transports en commun,3,0,gestion du stress,"organisation du temps, respect de dates buttoires","esprit d'entreprendre, proactivité",25,75
+316,plaquiste,0,4,1.0,1800,oloron-sainte-marie,transports en commun,3,0,"visualisation, zoom sur la mise en pratique des méthodes concrètes",gestion du stress,"motivation, donner du sens au delà de la tâche à effectuer",75,25
+317,assistant commercial,1,14,1.0,1700,oloron-sainte-marie,voiture,3,1,"esprit d'entreprendre, proactivité",résolution de problème,"sens du collectif, partage",50,50
+318,monteur,1,12,1.0,1900,oloron-sainte-marie,véhicule 2 roues,1,1,"communication, faire passer un message","présence, capacité de concentration","audace, capacité à oser",75,100
+319,chauffeur spl,1,2,1.0,1900,orin,voiture,1,1,"sens du collectif, partage","créativité, générer des idées","confiance (en soi, en les autres et en l'avenir)",75,50
+320,manoeuvre,0,7,1.0,1800,orion,voiture,1,0,"motivation, donner du sens au delà de la tâche à effectuer",ponctualité,"créativité, générer des idées",25,50
+321,cariste magasinier,0,,1.0,1800,orthez,véhicule 2 roues,2,0,ponctualité,"communication, faire passer un message","curiosité, aimer apprendre",100,25
+322,manutentionnaire,0,15,1.0,2100,orthez,voiture,2,0,résolution de problème,"créativité, générer des idées",capacité et application d'une consigne,25,100
+323,conditionneur,0,1,1.0,1650,orthez,permis de conduire,4,0,"vision, voir le chemin pour arriver à l'objectif (dézoom)","communication, faire passer un message","esprit d'entreprendre, proactivité",75,50
+324,manutentionnaire,1,7,1.0,1650,orthez,transports en commun,2,1,"curiosité, aimer apprendre","créativité, générer des idées",gestion du stress,75,0
+325,agriculteur,0,,1.0,2000,orthez,voiture,2,0,"communication, faire passer un message","confiance (en soi, en les autres et en l'avenir)","créativité, générer des idées",25,50
+326,manutentionnaire,0,2,1.0,1900,orthez,véhicule 2 roues,3,0,intelligence émotionnelle,gestion du stress,capacité et application d'une consigne,75,0
+327,manoeuvre btp,1,1,1.0,1950,orthez,voiture,2,1,"esprit d'entreprendre, proactivité",ponctualité,"confiance (en soi, en les autres et en l'avenir)",75,100
+328,chauffeur spl,0,12,1.0,2100,orthez,véhicule 2 roues,4,0,"visualisation, zoom sur la mise en pratique des méthodes concrètes","empathie, comprendre la réalité","empathie, comprendre la réalité",25,100
+329,agent de nettoyage,1,16,1.0,1650,orthez,voiture,3,1,"présence, capacité de concentration","visualisation, zoom sur la mise en pratique des méthodes concrètes",résolution de problème,100,100
+330,serveuse,0,5,1.0,1950,orthez,transports en commun,1,0,"esprit d'entreprendre, proactivité","motivation, donner du sens au delà de la tâche à effectuer","sens du collectif, partage",50,75
+331,operateur polyvalent,1,,0.8,1900,orthez,transports en commun,3,1,"audace, capacité à oser","sens du collectif, partage","communication, faire passer un message",25,50
+332,manutentionnaire,1,15,0.8,1950,orthez,permis de conduire,2,1,résolution de problème,"communication, faire passer un message","audace, capacité à oser",50,75
+333,cariste,1,,0.8,1750,orthez,véhicule 2 roues,2,1,ponctualité,résolution de problème,"créativité, générer des idées",25,25
+334,chauffeur,1,,0.5,1650,orthez,permis de conduire,4,1,"confiance (en soi, en les autres et en l'avenir)","présence, capacité de concentration","créativité, générer des idées",0,100
+335,manoeuvre,0,1,0.5,1750,orthez,permis de conduire,2,0,"curiosité, aimer apprendre","motivation, donner du sens au delà de la tâche à effectuer","vision, voir le chemin pour arriver à l'objectif (dézoom)",100,100
+336,conditionneuse,1,10,0.5,2000,orthez,voiture,2,1,ponctualité,"esprit d'entreprendre, proactivité","vision, voir le chemin pour arriver à l'objectif (dézoom)",75,25
+337,receptionniste,0,14,0.5,1950,orthez,transports en commun,4,0,"motivation, donner du sens au delà de la tâche à effectuer","vision, voir le chemin pour arriver à l'objectif (dézoom)",ponctualité,75,100
+338,cariste,1,2,0.5,2050,orthez,voiture,1,1,gestion du stress,"audace, capacité à oser",gestion du stress,100,50
+339,conditionneuse,1,6,0.33,1900,orthez,transports en commun,4,1,"confiance (en soi, en les autres et en l'avenir)",capacité et application d'une consigne,"curiosité, aimer apprendre",100,100
+340,conducteur dengins,0,1,1.0,1650,orthez,voiture,1,0,résolution de problème,"visualisation, zoom sur la mise en pratique des méthodes concrètes","visualisation, zoom sur la mise en pratique des méthodes concrètes",50,0
+341,monteur,1,12,1.0,2000,orthez,permis de conduire,1,1,"confiance (en soi, en les autres et en l'avenir)",résolution de problème,"esprit d'entreprendre, proactivité",100,100
+342,charpentier bois,0,9,1.0,1700,orthez,transports en commun,4,0,"créativité, générer des idées","créativité, générer des idées",intelligence émotionnelle,25,75
+343,operateur de finition,1,1,1.0,1850,orthez,véhicule 2 roues,2,1,"confiance (en soi, en les autres et en l'avenir)",gestion du stress,"présence, capacité de concentration",75,50
+344,manoeuvre,0,15,1.0,1800,orthez,transports en commun,4,0,"visualisation, zoom sur la mise en pratique des méthodes concrètes",capacité et application d'une consigne,"présence, capacité de concentration",100,0
+345,hotesse de caisse,0,10,1.0,1900,orthez,permis de conduire,3,0,"organisation du temps, respect de dates buttoires","vision, voir le chemin pour arriver à l'objectif (dézoom)","visualisation, zoom sur la mise en pratique des méthodes concrètes",0,25
+346,cariste,1,15,1.0,2100,orthez,véhicule 2 roues,2,1,"curiosité, aimer apprendre","visualisation, zoom sur la mise en pratique des méthodes concrètes","motivation, donner du sens au delà de la tâche à effectuer",0,0
+347,electricien batiment,0,10,1.0,2000,orthez,véhicule 2 roues,4,0,"organisation du temps, respect de dates buttoires","empathie, comprendre la réalité","curiosité, aimer apprendre",50,0
+348,manoeuvre,0,15,1.0,2050,orthez,voiture,4,0,"organisation du temps, respect de dates buttoires",résolution de problème,"créativité, générer des idées",75,100
+349,conditionneuse,1,8,1.0,2000,orthez,permis de conduire,4,1,capacité et application d'une consigne,"audace, capacité à oser","organisation du temps, respect de dates buttoires",0,0
+350,monteur echafaudage,1,3,1.0,1650,orthez,transports en commun,1,1,"motivation, donner du sens au delà de la tâche à effectuer","communication, faire passer un message","vision, voir le chemin pour arriver à l'objectif (dézoom)",75,50
+351,manoeuvre,0,,1.0,1850,orthez,véhicule 2 roues,1,0,"créativité, générer des idées","confiance (en soi, en les autres et en l'avenir)","vision, voir le chemin pour arriver à l'objectif (dézoom)",50,50
+352,manutentionnaire,0,9,1.0,2100,orthez,véhicule 2 roues,4,0,"audace, capacité à oser","vision, voir le chemin pour arriver à l'objectif (dézoom)","sens du collectif, partage",0,0
+353,manutentionnaire,0,1,1.0,1900,orthez,transports en commun,2,0,gestion du stress,"esprit d'entreprendre, proactivité","communication, faire passer un message",25,0
+354,conditionneur,1,2,1.0,1700,orthez,permis de conduire,3,1,"visualisation, zoom sur la mise en pratique des méthodes concrètes","confiance (en soi, en les autres et en l'avenir)","présence, capacité de concentration",75,75
+355,manutentionnaire,1,6,1.0,2000,orthez,voiture,3,1,"empathie, comprendre la réalité",ponctualité,"présence, capacité de concentration",100,25
+356,plombier,0,0,1.0,1650,orthez,transports en commun,4,0,"présence, capacité de concentration",intelligence émotionnelle,capacité et application d'une consigne,75,75
+357,conditionneuse,1,14,1.0,1700,orthez,transports en commun,3,1,"audace, capacité à oser","esprit d'entreprendre, proactivité",intelligence émotionnelle,50,50
+358,inventoriste,0,,1.0,1750,orthez,voiture,3,0,ponctualité,ponctualité,"motivation, donner du sens au delà de la tâche à effectuer",0,75
+359,conditionneur,0,16,1.0,2100,orthez,permis de conduire,3,0,"confiance (en soi, en les autres et en l'avenir)","présence, capacité de concentration","audace, capacité à oser",50,75
+360,conditionneuse,1,,1.0,2050,orthez,voiture,2,1,"confiance (en soi, en les autres et en l'avenir)","visualisation, zoom sur la mise en pratique des méthodes concrètes","curiosité, aimer apprendre",25,100
+361,cariste magasinier,1,16,1.0,1700,orthez,voiture,2,1,"créativité, générer des idées","confiance (en soi, en les autres et en l'avenir)","communication, faire passer un message",75,100
+362,chauffeur pl,1,0,0.8,2100,orthez,voiture,2,1,intelligence émotionnelle,"organisation du temps, respect de dates buttoires",ponctualité,75,100
+363,manoeuvre,0,,0.8,2050,orthez,transports en commun,1,0,gestion du stress,"empathie, comprendre la réalité",intelligence émotionnelle,50,0
+364,conducteur dengins,0,9,0.8,1850,orthez,transports en commun,4,0,"créativité, générer des idées","vision, voir le chemin pour arriver à l'objectif (dézoom)","créativité, générer des idées",50,100
+365,conditionneuse,0,5,0.5,1950,orthez,transports en commun,4,0,"organisation du temps, respect de dates buttoires",capacité et application d'une consigne,capacité et application d'une consigne,0,75
+366,chauffeur pl,0,13,0.5,2100,orthez,permis de conduire,3,0,"audace, capacité à oser","empathie, comprendre la réalité","motivation, donner du sens au delà de la tâche à effectuer",50,0
+367,ouvrier espaces verts,1,15,0.5,1700,orthez,voiture,3,1,"audace, capacité à oser","confiance (en soi, en les autres et en l'avenir)","créativité, générer des idées",75,75
+368,carrossier peintre,1,14,0.5,1800,orthez,transports en commun,4,1,"audace, capacité à oser","audace, capacité à oser",résolution de problème,25,100
+369,agent de securite,1,1,0.5,1650,orthez,transports en commun,4,1,"empathie, comprendre la réalité",résolution de problème,gestion du stress,50,100
+370,manutentionnaire,1,11,0.33,1950,orthez,véhicule 2 roues,3,1,"curiosité, aimer apprendre","esprit d'entreprendre, proactivité","empathie, comprendre la réalité",50,75
+371,manutentionnaire,1,7,1.0,1750,orthez,transports en commun,4,1,"communication, faire passer un message","communication, faire passer un message",capacité et application d'une consigne,100,75
+372,manutentionnaire,0,13,1.0,1750,orthez,transports en commun,3,0,"créativité, générer des idées","confiance (en soi, en les autres et en l'avenir)",résolution de problème,100,100
+373,conditionneuse,0,7,1.0,1800,orthez,voiture,4,0,"esprit d'entreprendre, proactivité","créativité, générer des idées","audace, capacité à oser",25,100
+374,mecanicien auto,0,8,1.0,1700,os marsillon,transports en commun,1,0,"vision, voir le chemin pour arriver à l'objectif (dézoom)","créativité, générer des idées",capacité et application d'une consigne,50,100
+375,dessinateur,1,8,1.0,1850,os-marsillon,permis de conduire,4,1,"présence, capacité de concentration","vision, voir le chemin pour arriver à l'objectif (dézoom)",intelligence émotionnelle,100,25
+376,agent de nettoyage,0,15,1.0,1750,os-marsillon,permis de conduire,1,0,résolution de problème,"organisation du temps, respect de dates buttoires","motivation, donner du sens au delà de la tâche à effectuer",100,50
+377,conditionneuse,0,1,1.0,1750,ozenx-montestrucq,voiture,4,0,"audace, capacité à oser",ponctualité,ponctualité,100,50
+378,chauffeur routier national,0,11,1.0,2100,pardies,voiture,2,0,"audace, capacité à oser","organisation du temps, respect de dates buttoires","motivation, donner du sens au delà de la tâche à effectuer",50,100
+379,manoeuvre btp,0,,1.0,1850,pardies,voiture,3,0,"communication, faire passer un message","curiosité, aimer apprendre",ponctualité,0,75
+380,inventoriste,0,7,1.0,1950,pardies,permis de conduire,1,0,"motivation, donner du sens au delà de la tâche à effectuer","sens du collectif, partage",résolution de problème,0,25
+381,conditionneuse,1,,1.0,1650,pardies,véhicule 2 roues,2,1,"motivation, donner du sens au delà de la tâche à effectuer","confiance (en soi, en les autres et en l'avenir)",ponctualité,100,50
+382,agent de securite,1,10,1.0,1850,pardies,voiture,2,1,"empathie, comprendre la réalité","esprit d'entreprendre, proactivité",gestion du stress,0,75
+383,chauffeur spl,1,0,1.0,1650,pardies,véhicule 2 roues,3,1,"communication, faire passer un message","confiance (en soi, en les autres et en l'avenir)",capacité et application d'une consigne,100,75
+384,manutentionnaire,0,12,1.0,1900,pardies,voiture,1,0,"curiosité, aimer apprendre","vision, voir le chemin pour arriver à l'objectif (dézoom)","vision, voir le chemin pour arriver à l'objectif (dézoom)",50,100
+385,conditionneuse,0,,1.0,1850,pardies,voiture,2,0,"esprit d'entreprendre, proactivité","visualisation, zoom sur la mise en pratique des méthodes concrètes","esprit d'entreprendre, proactivité",100,25
+386,agent de nettoyage,0,4,1.0,2100,pardies,permis de conduire,1,0,"organisation du temps, respect de dates buttoires",résolution de problème,capacité et application d'une consigne,50,25
+387,vendeur(se),1,,1.0,1900,pardies,voiture,4,1,"communication, faire passer un message","sens du collectif, partage","motivation, donner du sens au delà de la tâche à effectuer",0,25
+388,manutentionnaire,0,2,1.0,1900,pau,véhicule 2 roues,4,0,"créativité, générer des idées","curiosité, aimer apprendre","audace, capacité à oser",75,50
+389,serveuse,1,,1.0,2000,pau,permis de conduire,3,1,"sens du collectif, partage",ponctualité,intelligence émotionnelle,75,100
+390,macon vrd,1,14,1.0,1750,pau,transports en commun,4,1,"sens du collectif, partage",gestion du stress,"curiosité, aimer apprendre",0,0
+391,charpentier bois,0,16,1.0,1800,pau,transports en commun,2,0,"esprit d'entreprendre, proactivité","motivation, donner du sens au delà de la tâche à effectuer",ponctualité,50,75
+392,manutentionnaire,0,,1.0,1700,pau,transports en commun,3,0,"visualisation, zoom sur la mise en pratique des méthodes concrètes",ponctualité,capacité et application d'une consigne,50,0
+393,conditionneuse,0,14,0.8,2100,pau,voiture,3,0,ponctualité,"visualisation, zoom sur la mise en pratique des méthodes concrètes","présence, capacité de concentration",50,25
+394,ouvrier espaces verts,1,13,0.8,1850,pau,permis de conduire,2,1,"créativité, générer des idées","sens du collectif, partage","confiance (en soi, en les autres et en l'avenir)",25,0
+395,manœuvre,0,,0.8,1950,pau,véhicule 2 roues,3,0,"présence, capacité de concentration",résolution de problème,capacité et application d'une consigne,0,25
+396,chauffeur pl,0,8,0.5,1800,pau,voiture,2,0,"empathie, comprendre la réalité","visualisation, zoom sur la mise en pratique des méthodes concrètes","vision, voir le chemin pour arriver à l'objectif (dézoom)",100,50
+397,caces cariste 3,0,16,0.5,1650,pau,véhicule 2 roues,2,0,"visualisation, zoom sur la mise en pratique des méthodes concrètes","sens du collectif, partage","confiance (en soi, en les autres et en l'avenir)",75,100
+398,manutentionnaire,1,7,0.5,1700,pau,transports en commun,2,1,"curiosité, aimer apprendre","esprit d'entreprendre, proactivité",ponctualité,0,25
+399,manoeuvre,1,12,0.5,2000,pau,véhicule 2 roues,4,1,résolution de problème,"communication, faire passer un message","esprit d'entreprendre, proactivité",75,75
+400,manutentionnaire,0,,0.5,1650,pau,véhicule 2 roues,1,0,"présence, capacité de concentration","confiance (en soi, en les autres et en l'avenir)","confiance (en soi, en les autres et en l'avenir)",75,25
+401,chauffeur spl,1,12,0.33,1950,pau,véhicule 2 roues,2,1,"sens du collectif, partage","empathie, comprendre la réalité","curiosité, aimer apprendre",50,25
+402,manutentionnaire,0,2,1.0,1750,pau,véhicule 2 roues,4,0,"vision, voir le chemin pour arriver à l'objectif (dézoom)","créativité, générer des idées","présence, capacité de concentration",75,50
+403,mecanicien,0,1,1.0,1700,pau,véhicule 2 roues,1,0,gestion du stress,"créativité, générer des idées","visualisation, zoom sur la mise en pratique des méthodes concrètes",0,50
+404,chauffeur pl,0,,1.0,1900,pau,permis de conduire,1,0,"vision, voir le chemin pour arriver à l'objectif (dézoom)","créativité, générer des idées","curiosité, aimer apprendre",0,25
+405,secretaire administrative,0,6,1.0,1900,pau,transports en commun,4,0,"motivation, donner du sens au delà de la tâche à effectuer",intelligence émotionnelle,"confiance (en soi, en les autres et en l'avenir)",100,0
+406,conditionneuse,1,,1.0,1700,pau,véhicule 2 roues,4,1,résolution de problème,"esprit d'entreprendre, proactivité","empathie, comprendre la réalité",50,75
+407,conditionneuse,0,8,1.0,1950,pau,véhicule 2 roues,4,0,"vision, voir le chemin pour arriver à l'objectif (dézoom)","motivation, donner du sens au delà de la tâche à effectuer","vision, voir le chemin pour arriver à l'objectif (dézoom)",25,100
+408,educateur sportif,1,,1.0,2100,pau,voiture,2,1,"créativité, générer des idées","sens du collectif, partage","curiosité, aimer apprendre",25,50
+409,chauffeur pl,0,7,1.0,2050,pau,transports en commun,2,0,résolution de problème,"sens du collectif, partage","organisation du temps, respect de dates buttoires",75,25
+410,chauffeur spl,0,10,1.0,1700,pau,permis de conduire,4,0,"curiosité, aimer apprendre","confiance (en soi, en les autres et en l'avenir)",résolution de problème,75,75
+411,agent de securite,0,16,1.0,1900,pau,voiture,4,0,"motivation, donner du sens au delà de la tâche à effectuer","présence, capacité de concentration","esprit d'entreprendre, proactivité",0,100
+412,manoeuvre,1,9,1.0,1900,pau,véhicule 2 roues,2,1,résolution de problème,"présence, capacité de concentration","audace, capacité à oser",100,75
+413,peintre,0,1,1.0,1750,pau,véhicule 2 roues,1,0,"communication, faire passer un message",gestion du stress,"curiosité, aimer apprendre",50,0
+414,conditionneuse,1,10,1.0,1700,pau,transports en commun,2,1,"motivation, donner du sens au delà de la tâche à effectuer","sens du collectif, partage","confiance (en soi, en les autres et en l'avenir)",0,50
+415,conditionneuse,0,0,1.0,2000,pau,transports en commun,3,0,"présence, capacité de concentration","esprit d'entreprendre, proactivité","curiosité, aimer apprendre",50,25
+416,manutentionnaire,0,,1.0,1850,pau,transports en commun,4,0,"esprit d'entreprendre, proactivité",gestion du stress,gestion du stress,75,0
+417,conditionneur,1,4,1.0,1800,pau,permis de conduire,3,1,ponctualité,"curiosité, aimer apprendre","créativité, générer des idées",100,75
+418,manutentionnaire,0,12,1.0,1900,pau,transports en commun,2,0,"esprit d'entreprendre, proactivité","créativité, générer des idées","visualisation, zoom sur la mise en pratique des méthodes concrètes",0,100
+419,chauffeur pl,1,6,1.0,1750,pau,permis de conduire,4,1,"motivation, donner du sens au delà de la tâche à effectuer","créativité, générer des idées","vision, voir le chemin pour arriver à l'objectif (dézoom)",25,100
+420,conditionneur,1,,1.0,1750,pau,voiture,1,1,résolution de problème,"communication, faire passer un message","esprit d'entreprendre, proactivité",0,75
+421,manutentionnaire,0,,1.0,1950,pau,voiture,4,0,"vision, voir le chemin pour arriver à l'objectif (dézoom)",intelligence émotionnelle,capacité et application d'une consigne,0,50
+422,chauffeur pl,1,,1.0,1700,pau,transports en commun,4,1,"créativité, générer des idées",gestion du stress,intelligence émotionnelle,0,0
+423,inventoriste,0,8,1.0,1700,pau,véhicule 2 roues,2,0,"organisation du temps, respect de dates buttoires","sens du collectif, partage","audace, capacité à oser",25,75
+424,manutentionnaire,0,12,0.8,2100,pau,transports en commun,1,0,"sens du collectif, partage",résolution de problème,gestion du stress,25,50
+425,agent de securite,1,9,0.8,2000,pau,transports en commun,1,1,capacité et application d'une consigne,"communication, faire passer un message","sens du collectif, partage",75,0
+426,cariste,0,12,0.8,1850,pau,voiture,3,0,"sens du collectif, partage","curiosité, aimer apprendre","visualisation, zoom sur la mise en pratique des méthodes concrètes",100,0
+427,aide charpentier,1,4,0.5,1800,pau,transports en commun,2,1,"motivation, donner du sens au delà de la tâche à effectuer",ponctualité,"organisation du temps, respect de dates buttoires",25,100
+428,technicien maintenance,0,2,0.5,1850,pau,permis de conduire,3,0,"vision, voir le chemin pour arriver à l'objectif (dézoom)","empathie, comprendre la réalité",gestion du stress,100,75
+429,chauffeur pl,0,16,0.5,1650,pau,permis de conduire,4,0,ponctualité,ponctualité,"visualisation, zoom sur la mise en pratique des méthodes concrètes",25,25
+430,cariste,0,,0.5,1950,pau,véhicule 2 roues,4,0,"motivation, donner du sens au delà de la tâche à effectuer","organisation du temps, respect de dates buttoires","visualisation, zoom sur la mise en pratique des méthodes concrètes",0,100
+431,cariste-rouleur,1,,0.5,1900,pays de clerval,véhicule 2 roues,3,1,résolution de problème,ponctualité,"confiance (en soi, en les autres et en l'avenir)",100,25
+432,vendeuse,1,0,0.33,1700,poey de lescar,permis de conduire,3,1,"organisation du temps, respect de dates buttoires",gestion du stress,intelligence émotionnelle,25,25
+433,agent de securite,1,0,1.0,1700,poey de lescar,voiture,3,1,"confiance (en soi, en les autres et en l'avenir)","présence, capacité de concentration","curiosité, aimer apprendre",75,50
+434,inventoriste,0,5,1.0,1650,poey-de-lescar,véhicule 2 roues,4,0,"empathie, comprendre la réalité","esprit d'entreprendre, proactivité","visualisation, zoom sur la mise en pratique des méthodes concrètes",25,0
+435,chauffeur spl,0,13,1.0,2000,poey-de-lescar,voiture,1,0,"motivation, donner du sens au delà de la tâche à effectuer",résolution de problème,"confiance (en soi, en les autres et en l'avenir)",100,100
+436,conditionneuse,0,14,1.0,2050,poey-de-lescar,permis de conduire,4,0,"organisation du temps, respect de dates buttoires","empathie, comprendre la réalité","curiosité, aimer apprendre",50,50
+437,ebavureur,1,6,1.0,1650,poey-de-lescar,véhicule 2 roues,1,1,"communication, faire passer un message",capacité et application d'une consigne,"présence, capacité de concentration",50,100
+438,ouvrier agroalimentaire,1,3,1.0,1900,poey-de-lescar,voiture,3,1,"présence, capacité de concentration","présence, capacité de concentration",intelligence émotionnelle,50,0
+439,chauffeur pl,1,11,1.0,1950,poey-de-lescar,voiture,4,1,intelligence émotionnelle,"confiance (en soi, en les autres et en l'avenir)",gestion du stress,50,0
+440,conditionneuse,1,6,1.0,2050,pomps,voiture,1,1,ponctualité,"créativité, générer des idées","confiance (en soi, en les autres et en l'avenir)",75,100
+441,menuisier alu,1,4,1.0,1650,pouliacq,transports en commun,1,1,"présence, capacité de concentration","créativité, générer des idées",capacité et application d'une consigne,25,0
+442,monteur,1,,1.0,2000,puyoo,transports en commun,1,1,ponctualité,"confiance (en soi, en les autres et en l'avenir)",résolution de problème,25,100
+443,chauffeur pl,1,,1.0,1850,puyoo,transports en commun,1,1,"curiosité, aimer apprendre","sens du collectif, partage","communication, faire passer un message",0,0
+444,chauffeur spl,1,1,1.0,1700,puyoo,véhicule 2 roues,4,1,ponctualité,ponctualité,ponctualité,50,75
+445,menuisier bois,1,13,1.0,2000,saint-agnet,transports en commun,3,1,"audace, capacité à oser","sens du collectif, partage",capacité et application d'une consigne,50,25
+446,serveuse,0,,1.0,1950,saint-girons-en-bearn,permis de conduire,3,0,résolution de problème,"curiosité, aimer apprendre","audace, capacité à oser",0,50
+447,femme de menage,0,0,1.0,1800,saint-justin,véhicule 2 roues,4,0,gestion du stress,gestion du stress,"sens du collectif, partage",0,25
+448,manoeuvre btp,1,9,1.0,1650,saint-medard,voiture,2,1,capacité et application d'une consigne,"créativité, générer des idées",intelligence émotionnelle,50,100
+449,conditionneuse,0,,1.0,1700,saint-palais,véhicule 2 roues,2,0,"présence, capacité de concentration","organisation du temps, respect de dates buttoires","visualisation, zoom sur la mise en pratique des méthodes concrètes",50,25
+450,conditionneur,1,7,1.0,1750,saint-sever,véhicule 2 roues,3,1,"empathie, comprendre la réalité","confiance (en soi, en les autres et en l'avenir)","visualisation, zoom sur la mise en pratique des méthodes concrètes",100,100
+451,chauffeur pl,1,,1.0,1650,salies de bearn,transports en commun,4,1,"curiosité, aimer apprendre",intelligence émotionnelle,ponctualité,75,25
+452,cariste,1,3,1.0,2050,salies-de-bearn,permis de conduire,1,1,"vision, voir le chemin pour arriver à l'objectif (dézoom)","visualisation, zoom sur la mise en pratique des méthodes concrètes",ponctualité,25,0
+453,serveur,1,,1.0,1900,salies-de-bearn,véhicule 2 roues,2,1,"curiosité, aimer apprendre","vision, voir le chemin pour arriver à l'objectif (dézoom)",capacité et application d'une consigne,50,75
+454,manoeuvre btp,1,16,1.0,1800,salies-de-bearn,voiture,3,1,"esprit d'entreprendre, proactivité","organisation du temps, respect de dates buttoires","audace, capacité à oser",75,100
+455,ouvrier espaces verts,1,2,0.8,1650,salies-de-bearn,transports en commun,3,1,"audace, capacité à oser",résolution de problème,"sens du collectif, partage",75,50
+456,agent de securite,0,,0.8,2000,salles-mongiscard,permis de conduire,3,0,"vision, voir le chemin pour arriver à l'objectif (dézoom)","motivation, donner du sens au delà de la tâche à effectuer","présence, capacité de concentration",0,75
+457,manutentionnaire,0,,0.8,2000,sallespisse,véhicule 2 roues,4,0,"sens du collectif, partage","audace, capacité à oser","visualisation, zoom sur la mise en pratique des méthodes concrètes",75,100
+458,chauffeur spl,0,3,0.5,1750,sallespisse,véhicule 2 roues,2,0,"esprit d'entreprendre, proactivité","organisation du temps, respect de dates buttoires",intelligence émotionnelle,75,50
+459,operateur de fabrication,0,,0.5,1900,sallespisse,transports en commun,3,0,"esprit d'entreprendre, proactivité","esprit d'entreprendre, proactivité","esprit d'entreprendre, proactivité",75,100
+460,manoeuvre,1,,0.5,2000,samadet,permis de conduire,3,1,"confiance (en soi, en les autres et en l'avenir)","présence, capacité de concentration",capacité et application d'une consigne,25,25
+461,agent de securite,0,,0.5,1700,sault-de-navailles,véhicule 2 roues,3,0,"motivation, donner du sens au delà de la tâche à effectuer",intelligence émotionnelle,"vision, voir le chemin pour arriver à l'objectif (dézoom)",0,25
+462,menuisier alu,1,3,0.5,1950,sault-de-navailles,véhicule 2 roues,3,1,"présence, capacité de concentration","confiance (en soi, en les autres et en l'avenir)","organisation du temps, respect de dates buttoires",0,25
+463,chauffeur spl,0,,0.33,1700,sauvagnon,voiture,3,0,"confiance (en soi, en les autres et en l'avenir)","vision, voir le chemin pour arriver à l'objectif (dézoom)",intelligence émotionnelle,25,50
+464,manoeuvre,1,0,1.0,2100,sauvagnon,permis de conduire,1,1,"audace, capacité à oser","communication, faire passer un message","confiance (en soi, en les autres et en l'avenir)",0,25
+465,manutentionnaire,1,7,1.0,1900,sauvagnon,transports en commun,3,1,"audace, capacité à oser",gestion du stress,"sens du collectif, partage",100,50
+466,charpentier metal,0,11,1.0,1650,sciez,véhicule 2 roues,3,0,"vision, voir le chemin pour arriver à l'objectif (dézoom)","visualisation, zoom sur la mise en pratique des méthodes concrètes","sens du collectif, partage",100,50
+467,dessinateur,1,9,1.0,1900,sedzere,voiture,2,1,"créativité, générer des idées","curiosité, aimer apprendre","motivation, donner du sens au delà de la tâche à effectuer",100,25
+468,conditionneuse,0,7,1.0,1650,serres-castet,voiture,1,0,intelligence émotionnelle,intelligence émotionnelle,résolution de problème,25,25
+469,manutentionnaire,1,0,1.0,1700,serres-castet,transports en commun,3,1,ponctualité,"empathie, comprendre la réalité","créativité, générer des idées",0,0
+470,manoeuvre,0,,1.0,1900,serres-sainte-marie,transports en commun,2,0,"confiance (en soi, en les autres et en l'avenir)",ponctualité,"présence, capacité de concentration",25,0
+471,manutentionnaire,1,7,1.0,1800,siros,transports en commun,4,1,"esprit d'entreprendre, proactivité",gestion du stress,"motivation, donner du sens au delà de la tâche à effectuer",25,50
+472,manutentionnaire,1,4,1.0,1850,siros,transports en commun,1,1,"motivation, donner du sens au delà de la tâche à effectuer","audace, capacité à oser","sens du collectif, partage",0,0
+473,inventoriste,0,,1.0,1800,siros,transports en commun,4,0,ponctualité,"visualisation, zoom sur la mise en pratique des méthodes concrètes","visualisation, zoom sur la mise en pratique des méthodes concrètes",75,75
+474,inventoriste,0,,1.0,2000,siros,transports en commun,3,0,"motivation, donner du sens au delà de la tâche à effectuer","esprit d'entreprendre, proactivité",capacité et application d'une consigne,0,75
+475,manutentionnaire,0,9,1.0,1950,soumoulou,voiture,2,0,gestion du stress,"créativité, générer des idées","curiosité, aimer apprendre",75,50
+476,peintre industriel,0,5,1.0,1750,souvigne,permis de conduire,3,0,intelligence émotionnelle,"organisation du temps, respect de dates buttoires","visualisation, zoom sur la mise en pratique des méthodes concrètes",25,75
+477,manutentionnaire,1,,1.0,1800,st agnet,voiture,2,1,résolution de problème,"esprit d'entreprendre, proactivité","créativité, générer des idées",100,25
+478,conditionneuse,1,8,1.0,2000,st boes,permis de conduire,2,1,ponctualité,intelligence émotionnelle,"sens du collectif, partage",75,100
+479,secretaire administrative,1,3,1.0,1800,sus,transports en commun,2,1,gestion du stress,capacité et application d'une consigne,capacité et application d'une consigne,75,0
+480,serveur,0,13,1.0,2050,tarbes,voiture,1,0,résolution de problème,gestion du stress,gestion du stress,25,75
+481,manoeuvre,1,8,1.0,2050,tarbes,véhicule 2 roues,4,1,"esprit d'entreprendre, proactivité","présence, capacité de concentration","présence, capacité de concentration",0,75
+482,manoeuvre btp,0,,1.0,1700,tarsacq,transports en commun,3,0,"motivation, donner du sens au delà de la tâche à effectuer","motivation, donner du sens au delà de la tâche à effectuer","sens du collectif, partage",75,25
+483,agent de securite,1,10,1.0,1800,tarsacq,véhicule 2 roues,2,1,"organisation du temps, respect de dates buttoires",ponctualité,intelligence émotionnelle,50,100
+484,conditionneuse,1,,1.0,1800,tarsacq,voiture,3,1,"vision, voir le chemin pour arriver à l'objectif (dézoom)","confiance (en soi, en les autres et en l'avenir)","vision, voir le chemin pour arriver à l'objectif (dézoom)",50,50
+485,conditionneur,0,11,1.0,1950,theze,permis de conduire,1,0,gestion du stress,"sens du collectif, partage",résolution de problème,0,25
+486,inventoriste,1,7,0.8,1900,tresses,véhicule 2 roues,3,1,ponctualité,"esprit d'entreprendre, proactivité",intelligence émotionnelle,0,50
+487,chaudronnier,0,9,0.8,1750,urdes,véhicule 2 roues,1,0,"audace, capacité à oser",résolution de problème,ponctualité,50,100
+488,manutentionnaire,1,2,0.8,1700,urdes,permis de conduire,4,1,résolution de problème,"visualisation, zoom sur la mise en pratique des méthodes concrètes","créativité, générer des idées",100,0
+489,agent de securite,0,7,0.5,1700,urdes,permis de conduire,2,0,résolution de problème,"créativité, générer des idées","audace, capacité à oser",50,75
+490,manoeuvre,0,4,0.5,1950,urdes,véhicule 2 roues,1,0,"visualisation, zoom sur la mise en pratique des méthodes concrètes",gestion du stress,"organisation du temps, respect de dates buttoires",50,100
+491,agent de securite,1,2,0.5,1800,uzan,voiture,1,1,"communication, faire passer un message","communication, faire passer un message","créativité, générer des idées",100,50
+492,conditionneur,0,13,0.5,1900,uzan,véhicule 2 roues,3,0,"visualisation, zoom sur la mise en pratique des méthodes concrètes",capacité et application d'une consigne,"organisation du temps, respect de dates buttoires",75,0
+493,agent de securite,1,6,0.5,1700,viellesegure,transports en commun,1,1,"curiosité, aimer apprendre","sens du collectif, partage","motivation, donner du sens au delà de la tâche à effectuer",50,0
+494,agent de clientele,0,2,0.33,1850,viellesegure,permis de conduire,1,0,ponctualité,"curiosité, aimer apprendre","curiosité, aimer apprendre",50,25
+495,chauffeur spl,1,0,1.0,1800,viellesegure,permis de conduire,3,1,"confiance (en soi, en les autres et en l'avenir)","curiosité, aimer apprendre","organisation du temps, respect de dates buttoires",75,100
+496,conditionneuse,0,,1.0,1850,vielleségure,véhicule 2 roues,3,0,"esprit d'entreprendre, proactivité","organisation du temps, respect de dates buttoires","curiosité, aimer apprendre",0,75
+497,peintre carrossier,0,3,1.0,1800,vignes,permis de conduire,1,0,"vision, voir le chemin pour arriver à l'objectif (dézoom)","sens du collectif, partage",ponctualité,75,50
+498,manutentionnaire,0,9,1.0,2100,voiron,véhicule 2 roues,3,0,"communication, faire passer un message","créativité, générer des idées","organisation du temps, respect de dates buttoires",100,0
