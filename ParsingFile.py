@@ -13,8 +13,11 @@ DataClient = pd.concat([DataClient[col].astype(str).str.lower() for col in DataC
 
 
 
+##################################################################################################################################################################################################
 
 #################################################TRAITEMENT POUR LE FICHIER DATACLIENT###################################################################################################################
+
+##################################################################################################################################################################################################
 
  #Définission de la taille de l'entreprise sous forme de nombres tq:
 #1=TPE
@@ -138,6 +141,8 @@ DataClient.to_csv("DataClientParsed.csv")
 
 ###################################################################TRAITEMENT POUR LE FICHIER JOBBEUR ######################################################################################################################
 
+##################################################################################################################################################################################################
+
 DataJobbeur = pd.read_excel(r"/home/hadrien//ProjetTatami/L-Eisteam/DATAJOBEUR.xlsx",skiprows=[0,1,2,3,4,5])
 
 DataJobbeur = DataJobbeur.loc[:, ~DataJobbeur.columns.isin(['NOM','Prénom','CODE POSTAL','Permis PL','Caces 1','Caces 2','Caces 3','Connaissez vous la différence entre ces types de contrats ?','Si non, souhaitez-vous vous plus d\'informations ?','Si vous avez un profil Linkedin ou un e-CV, coller le lien URL :','Si vous avez un site internet, blog ou portfolio coller le lien URL'])]
@@ -170,5 +175,7 @@ DataClient['Quels types de contrats pour les embauchés - TEXTE'] = DataClient['
                              'portage salarial' : 20,
                              'intermitent (spectacle)' : 21
                              },)     
+
+
 
 #https://www.liquidweb.com/kb/how-to-setup-a-python-virtual-environment-on-ubuntu-18-04/
