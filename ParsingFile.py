@@ -96,7 +96,7 @@ DataClient['Quels types de contrats pour les embauchés - TEXTE'] = DataClient['
                              'saisonnier': 18,
                              'stage':19,
                              'portage salarial' : 20,
-                             'intermitent (spectacle)' : 21
+                             'intermitent (spectacle)' : 21,
                              },)                            
 #Data Mobilité:
 #transport en commum = 0
@@ -151,7 +151,7 @@ DataJobbeur = DataJobbeur.loc[:, ~DataJobbeur.columns.isin(['NOM','Prénom','COD
 DataJobbeur = pd.concat([DataJobbeur[col].astype(str).str.lower() for col in DataJobbeur.columns],axis=1)
 
 
-DataClient['Quels types de contrats pour les embauchés - TEXTE'] = DataClient['Quels types de contrats pour les embauchés - TEXTE'].map({
+DataJobbeur['Quel type de contrat vous intéresse 1'] = DataJobbeur['Quel type de contrat vous intéresse 1'].map({
                              'contrat aidé ou aménagé (travailleur handicapé)':'0',
                              'temps partagé':1,
                              'bénévolat' : 2,
@@ -173,9 +173,64 @@ DataClient['Quels types de contrats pour les embauchés - TEXTE'] = DataClient['
                              'saisonnier': 18,
                              'stage':19,
                              'portage salarial' : 20,
-                             'intermitent (spectacle)' : 21
+                             'intermitent (spectacle)' : 21,
                              },)     
 
+DataJobbeur['Quel type de contrat vous intéresse 2'] = DataJobbeur['Quel type de contrat vous intéresse 2'].map({
+                             'contrat aidé ou aménagé (travailleur handicapé)':'0',
+                             'temps partagé':1,
+                             'bénévolat' : 2,
+                             'militaire' : 3,
+                             'vdi (vendeur à domicile indépendant)' : 4,
+                             'contrat sénior': 5,
+                             'mannequinat': 6,
+                             'indépendant / franchisé (eurl, sarl, sasu)':7,
+                             'intérim':8,
+                             'prêt de personnel' :9,
+                             'cdic (bâtiment)': 10,
+                             'cdd' : 11,
+                             'cdi': 12,
+                             'extra (restauration, hôtellerie)': 13,
+                             'alternance-appentissage' : 14,
+                             'vie / vte':15,
+                             'titulaire de la fonction publique': 16,
+                             'sous-traitance (microentreprise)':17,
+                             'saisonnier': 18,
+                             'stage':19,
+                             'portage salarial' : 20,
+                             'intermitent (spectacle)' : 21,
+                             'vdi (vendeur à doicile indépendant)': 4,
+                             'alternance, appentissage': 14,
+                             },)  
 
+DataJobbeur['Quel type de contrat vous intéresse 3'] = DataJobbeur['Quel type de contrat vous intéresse 3'].map({
+                             'contrat aidé ou aménagé (travailleur handicapé)':'0',
+                             'temps partagé':1,
+                             'bénévolat' : 2,
+                             'militaire' : 3,
+                             'vdi (vendeur à domicile indépendant)' : 4,
+                             'contrat sénior': 5,
+                             'mannequinat': 6,
+                             'indépendant / franchisé (eurl, sarl, sasu)':7,
+                             'intérim':8,
+                             'prêt de personnel' :9,
+                             'cdic (bâtiment)': 10,
+                             'cdd' : 11,
+                             'cdi': 12,
+                             'extra (restauration, hôtellerie)': 13,
+                             'alternance-appentissage' : 14,
+                             'vie / vte':15,
+                             'titulaire de la fonction publique': 16,
+                             'sous-traitance (microentreprise)':17,
+                             'saisonnier': 18,
+                             'stage':19,
+                             'portage salarial' : 20,
+                             'intermitent (spectacle)' : 21,
+                             'vdi (vendeur à doicile indépendant)': 4,
+                             'alternance, appentissage': 14,
+                             },)    
+
+
+DataJobbeur.to_csv("DataJobbeurParsed.csv")                    
 
 #https://www.liquidweb.com/kb/how-to-setup-a-python-virtual-environment-on-ubuntu-18-04/
