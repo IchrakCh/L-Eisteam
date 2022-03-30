@@ -146,7 +146,7 @@ DataClient.to_csv("DataClientParsed.csv")
 
 DataJobbeur = pd.read_excel(r"/home/hadrien//ProjetTatami/L-Eisteam/DATAJOBEUR.xlsx",skiprows=[0,1,2,3,4,5])
 
-DataJobbeur = DataJobbeur.loc[:, ~DataJobbeur.columns.isin(['NOM','Prénom','CODE POSTAL','Permis PL','Caces 1','Caces 2','Caces 3','Connaissez vous la différence entre ces types de contrats ?','Si non, souhaitez-vous vous plus d\'informations ?','Si vous avez un profil Linkedin ou un e-CV, coller le lien URL :','Si vous avez un site internet, blog ou portfolio coller le lien URL'])]
+DataJobbeur = DataJobbeur.loc[:, ~DataJobbeur.columns.isin(['GENRE','NOM','Prénom','CODE POSTAL','Permis PL','Caces 1','Caces 2','Caces 3','Connaissez vous la différence entre ces types de contrats ?','Si non, souhaitez-vous vous plus d\'informations ?','Si vous avez un profil Linkedin ou un e-CV, coller le lien URL :','Si vous avez un site internet, blog ou portfolio coller le lien URL'])]
 
 
 DataJobbeur = pd.concat([DataJobbeur[col].astype(str).str.lower() for col in DataJobbeur.columns],axis=1)
@@ -209,11 +209,16 @@ DataJobbeur['Quelle taille d\'entreprise / organisation TEXTE'] = DataJobbeur['Q
 #transport en commum = 0
 #Permis de conduire / voiture = 1
 #Permis 2 roue = 2
-DataJobbeur['Voitures'] = DataJobbeur['Voitures'].map({
+TmpTableTransport = ['Voitures','Autre transports']
+DataJobbeur[TmpTableTransport] = DataJobbeur[TmpTableTransport].replace({
                              'pas de véhicule':0,
+                             'nan':0,
+                             'transports en commun':0,
+                             'vélo':0,
                              'véhiculé avec voiture':1,
                              'permis de conduire':1,
                              'deux roues à moteur':2,
+                             'cyclomoteur':2,
                              },)    
 
 for i in range(len(DataJobbeur)):
@@ -240,6 +245,21 @@ DataJobbeur[colsToReplaceBy0And1] = DataJobbeur[colsToReplaceBy0And1].replace({
                                 'oui':1,
                                 'non':0,
                                 'nan':0,})
+
+
+for i in range(len(DataJobbeur)):
+    for j in range (len(DataListOfDiffJobs)):
+            if DataJobbeur['Dernier poste occupé (ou actuel)'][i] == DataListOfDiffJobs[j]:
+                    DataJobbeur['Dernier poste occupé (ou actuel)'] = DataJobbeur['Dernier poste occupé (ou actuel)'].replace(DataListOfDiffJobs[j],j)
+            elif (j==len(DataListOfDiffJobs)-1 and isinstance(DataJobbeur['Dernier poste occupé (ou actuel)'][i],str)):
+                  DataJobbeur['Dernier poste occupé (ou actuel)'] = DataJobbeur['Dernier poste occupé (ou actuel)'].replace(DataJobbeur['Dernier poste occupé (ou actuel)'][i],-1)
+for i in range(len(DataJobbeur)):
+        for j in range (len(DataListOfDiffJobs)):
+            if DataJobbeur['Mission recherchée : Exemple n°1 de poste (métier + secteur)'][i] == DataListOfDiffJobs[j]:
+                    DataJobbeur['Mission recherchée : Exemple n°1 de poste (métier + secteur)'] = DataJobbeur['Mission recherchée : Exemple n°1 de poste (métier + secteur)'].replace(DataListOfDiffJobs[j],j)
+            elif (j==len(DataListOfDiffJobs)-1 and isinstance(DataJobbeur['Mission recherchée : Exemple n°1 de poste (métier + secteur)'][i],str)):
+                  DataJobbeur['Mission recherchée : Exemple n°1 de poste (métier + secteur)'] = DataJobbeur['Mission recherchée : Exemple n°1 de poste (métier + secteur)'].replace(DataJobbeur['Mission recherchée : Exemple n°1 de poste (métier + secteur)'][i],-1)
+                                   
 #print(isinstance(DataJobbeur['Vos compétences 1'][0],int))
    
 #print(len(DataListOfCompetences))
