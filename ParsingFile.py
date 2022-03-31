@@ -344,10 +344,14 @@ for i in range(len(DataClient)):
         tmpVar = PotentialMatching[i]
         Matching[i]=FindNameFromClient.iloc[tmpVar]
         
-print("Ligne in result data who match the best (high score in columns"+PotentialMatching)     
-print("All columns of scoring about the Jobbeur (name entered) "+ ListOfPotentialClientByScoring)
-print("Max value found in the columns "+MaxValueInListOfClient)
-print("NAME OF RH in the copagny (client file) "+Matching)                
+print("Ligne in result data who match the best (high score in columns")
+print(PotentialMatching)     
+print("All columns of scoring about the Jobbeur (name entered) ")
+print(ListOfPotentialClientByScoring)
+print("Max value found in the columns ")
+print(MaxValueInListOfClient)
+print("NAME OF RH in the copagny (client file) ")
+print(Matching)                
 
 #print(ListOfPotentialClientByScoring[0])
      #   MyDataResult[j,i]=MyDataResult[j,i].replace(MyDataResult[j,i],1)
