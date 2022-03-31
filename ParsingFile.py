@@ -284,7 +284,38 @@ for i in range (len(DataClient)):
     for j in range (len(DataJobbeur)):
       if (DataClient["Localisation du poste"][i] == DataJobbeur["VILLE"][j]):
         MyDataResult.iloc[i,j]+=1
-     
+      if (DataJobbeur['Quels sont vos niveaux de disponibilité ? TEXTE'][j] == DataClient['Temps de travail'][i]):
+        MyDataResult.iloc[i,j]+=1
+      if (DataJobbeur['Niveau de rémunération mensuelle brute souhaitée'][j] >= DataClient['niveau de rémunération'][i]):
+        MyDataResult.iloc[i,j]+=1
+      if (DataClient["Localisation du poste"][i] == DataJobbeur["Localisation géographique du poste (région, ville)"][j]):
+            MyDataResult.iloc[i,j]+=1 
+      if (DataClient["Taille entreprise"][i] == DataJobbeur["Quelle taille d'entreprise / organisation TEXTE"][j]):
+            MyDataResult.iloc[i,j]+=1                    
+      if (DataClient["Comptétences pour le poste 1"][i] == DataJobbeur["Vos compétences 1"][j]):
+            MyDataResult.iloc[i,j]+=1
+      if (DataClient["Comptétences pour le poste 2"][i] == DataJobbeur["Vos compétences 2"][j]):
+            MyDataResult.iloc[i,j]+=1     
+      if (DataClient["Comptétences pour le poste 3"][i] == DataJobbeur["Vos compétences 3"][j]):
+            MyDataResult.iloc[i,j]+=1         
+      if (DataClient["Quels types de contrats pour les embauchés - TEXTE"][i] == DataJobbeur["Quel type de contrat vous intéresse 1"][j]):
+            MyDataResult.iloc[i,j]+=1   
+      if (DataClient["Quels types de contrats pour les embauchés - TEXTE"][i] == DataJobbeur["Quel type de contrat vous intéresse 2"][j]):
+            MyDataResult.iloc[i,j]+=1    
+      if (DataClient["Quels types de contrats pour les embauchés - TEXTE"][i] == DataJobbeur["Quel type de contrat vous intéresse 3"][j]):
+            MyDataResult.iloc[i,j]+=1    
+      if(DataJobbeur["Seriez-vous prêt à déménager pour ce futur job ?"][j]==1):
+            MyDataResult.iloc[i,j]+=1
+      if ((DataClient["Mobilité"][i] == 0 )and (DataJobbeur["Vous êtes prêt à faire des déplacements professionnels (en % temps)"][j]>0)):
+            MyDataResult.iloc[i,j]-=1      
+      if (DataClient["Télétravail ( en %)"][i] == DataJobbeur["Vous souhaitez faire du télétravail (en % temps)"][j]):
+            MyDataResult.iloc[i,j]+=1  
+
+            
+
+
+
+
      #   MyDataResult[j,i]=MyDataResult[j,i].replace(MyDataResult[j,i],1)
        
 #print(my_client[1])
