@@ -1,4 +1,5 @@
 from ctypes import sizeof
+from typing import List
 from xml.etree.ElementTree import tostring
 import pandas as pd
 
@@ -10,7 +11,6 @@ DataClient = DataClient.loc[:, ~DataClient.columns.isin(['Cv obligatoire ','adre
 
 DataClient = pd.concat([DataClient[col].astype(str).str.lower() for col in DataClient.columns],axis=1)
  
-
 
 
 
@@ -306,16 +306,50 @@ for i in range (len(DataClient)):
             MyDataResult.iloc[i,j]+=1    
       if(DataJobbeur["Seriez-vous prêt à déménager pour ce futur job ?"][j]==1):
             MyDataResult.iloc[i,j]+=1
-      if ((DataClient["Mobilité"][i] == 0 )and (DataJobbeur["Vous êtes prêt à faire des déplacements professionnels (en % temps)"][j]>0)):
-            MyDataResult.iloc[i,j]-=1      
+    # if ((DataClient["Mobilité"][i] == 0) and (DataJobbeur["Vous êtes prêt à faire des déplacements professionnels (en % temps)"][j] > str(0))):
+     #       MyDataResult.iloc[i,j]-=1      
       if (DataClient["Télétravail ( en %)"][i] == DataJobbeur["Vous souhaitez faire du télétravail (en % temps)"][j]):
             MyDataResult.iloc[i,j]+=1  
 
-            
+          
+FindIndexFromJobbeurDataSet = pd.read_excel(r"/home/hadrien//ProjetTatami/L-Eisteam/DATAJOBEUR.xlsx",skiprows=[0,1,2,3,4,5])
+FindIndexFromJobbeur = FindIndexFromJobbeurDataSet.iloc[:,0]
 
 
+ListOfPotentialClientByScoring =[0]*len(DataClient)
+NameOfJobbeur = input("Enter a name of a Jobbeur :")
+ColumnsOfJobberInMyDataset=0
+while(NameOfJobbeur != FindIndexFromJobbeur[ColumnsOfJobberInMyDataset]):
+        ColumnsOfJobberInMyDataset+=1
 
+for i in range(len(DataClient)):
+        ListOfPotentialClientByScoring[i]=MyDataResult.iloc[i,ColumnsOfJobberInMyDataset]      
 
+MaxValueInListOfClient =0
+for i in range(len(DataClient)):
+        if (ListOfPotentialClientByScoring[i]>MaxValueInListOfClient):
+                MaxValueInListOfClient=ListOfPotentialClientByScoring[i]
+ 
+PotentialMatching = [0]*len(DataClient)
+j=0
+for i in range(len(DataClient)):
+        if (ListOfPotentialClientByScoring[i]==MaxValueInListOfClient):
+                PotentialMatching[j]=i
+                j+=1
+Matching = ["Client"]*len(DataClient)
+
+FindNameFromClientDataSet = pd.read_excel(r"/home/hadrien//ProjetTatami/L-Eisteam/DATACLIENT.xlsx",skiprows=[0,1,2,3,4,5])
+FindNameFromClient= FindNameFromClientDataSet.iloc[:,18]
+for i in range(len(DataClient)):
+        tmpVar = PotentialMatching[i]
+        Matching[i]=FindNameFromClient.iloc[tmpVar]
+        
+print("Ligne in result data who match the best (high score in columns"+PotentialMatching)     
+print("All columns of scoring about the Jobbeur (name entered) "+ ListOfPotentialClientByScoring)
+print("Max value found in the columns "+MaxValueInListOfClient)
+print("NAME OF RH in the copagny (client file) "+Matching)                
+
+#print(ListOfPotentialClientByScoring[0])
      #   MyDataResult[j,i]=MyDataResult[j,i].replace(MyDataResult[j,i],1)
        
 #print(my_client[1])
