@@ -260,10 +260,38 @@ for i in range(len(DataJobbeur)):
             elif (j==len(DataListOfDiffJobs)-1 and isinstance(DataJobbeur['Mission recherchée : Exemple n°1 de poste (métier + secteur)'][i],str)):
                   DataJobbeur['Mission recherchée : Exemple n°1 de poste (métier + secteur)'] = DataJobbeur['Mission recherchée : Exemple n°1 de poste (métier + secteur)'].replace(DataJobbeur['Mission recherchée : Exemple n°1 de poste (métier + secteur)'][i],-1)
                                    
-#print(isinstance(DataJobbeur['Vos compétences 1'][0],int))
-   
-#print(len(DataListOfCompetences))
 
 DataJobbeur.to_csv("DataJobbeurParsed.csv")                    
+my_jobbers = ["1"]*len(DataJobbeur)
+for i in range(len(DataJobbeur)):
+    my_jobbers[i]='Jobbeur '+str(i)
+
+MyDataResult = pd.DataFrame(columns=my_jobbers)
+my_client = [1]*len(DataClient)
+
+
+
+for i in range(len(DataClient)):
+    my_client[i]=0
+ 
+
+for i in range (len(DataJobbeur)):
+    tmpCol = MyDataResult.columns[i]
+    MyDataResult[tmpCol]=my_client
+    
+
+for i in range (len(DataClient)):
+    for j in range (len(DataJobbeur)):
+      if (DataClient["Localisation du poste"][i] == DataJobbeur["VILLE"][j]):
+        MyDataResult.iloc[i,j]+=1
+     
+     #   MyDataResult[j,i]=MyDataResult[j,i].replace(MyDataResult[j,i],1)
+       
+#print(my_client[1])
+#print(len(DataJobbeur))
+#print(MyDataResult['Jobbeur 1'][2])
+MyDataResult.to_csv("resultData.csv")
+
+
 
 #https://www.liquidweb.com/kb/how-to-setup-a-python-virtual-environment-on-ubuntu-18-04/
