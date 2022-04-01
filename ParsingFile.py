@@ -315,7 +315,7 @@ for i in range (len(DataClient)):
 FindIndexFromJobbeurDataSet = pd.read_excel(r"/home/hadrien//ProjetTatami/L-Eisteam/DATAJOBEUR.xlsx",skiprows=[0,1,2,3,4,5])
 FindIndexFromJobbeur = FindIndexFromJobbeurDataSet.iloc[:,0]
 
-
+FindIndexFromJobbeurForJob = FindIndexFromJobbeurDataSet.iloc[:,6]
 ListOfPotentialClientByScoring =[0]*len(DataClient)
 NameOfJobbeur = input("Enter a name of a Jobbeur :")
 ColumnsOfJobberInMyDataset=0
@@ -339,11 +339,22 @@ for i in range(len(DataClient)):
 Matching = ["Client"]*len(DataClient)
 
 FindNameFromClientDataSet = pd.read_excel(r"/home/hadrien//ProjetTatami/L-Eisteam/DATACLIENT.xlsx",skiprows=[0,1,2,3,4,5])
-FindNameFromClient= FindNameFromClientDataSet.iloc[:,18]
+FindNameFromClient= FindNameFromClientDataSet.iloc[:,0]
 for i in range(len(DataClient)):
         tmpVar = PotentialMatching[i]
         Matching[i]=FindNameFromClient.iloc[tmpVar]
-        
+
+
+print("You was searching a post of: ")
+print (FindIndexFromJobbeurForJob[ColumnsOfJobberInMyDataset])
+i=0
+while (Matching[i]!=Matching[i+1]):
+        print("Here are the list of potential Job for you:")
+        print(Matching[i])
+        print("\n")
+        i+=1
+
+"""
 print("Ligne in result data who match the best (high score in columns")
 print(PotentialMatching)     
 print("All columns of scoring about the Jobbeur (name entered) ")
@@ -352,7 +363,7 @@ print("Max value found in the columns ")
 print(MaxValueInListOfClient)
 print("NAME OF RH in the copagny (client file) ")
 print(Matching)                
-
+"""
 #print(ListOfPotentialClientByScoring[0])
      #   MyDataResult[j,i]=MyDataResult[j,i].replace(MyDataResult[j,i],1)
        
