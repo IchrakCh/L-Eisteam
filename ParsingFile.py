@@ -337,20 +337,25 @@ for i in range(len(DataClient)):
                 PotentialMatching[j]=i
                 j+=1
 Matching = ["Client"]*len(DataClient)
-
+MatchingForNameOfCompagny = ['CompagnyName']*len(DataClient)
 FindNameFromClientDataSet = pd.read_excel(r"/home/hadrien//ProjetTatami/L-Eisteam/DATACLIENT.xlsx",skiprows=[0,1,2,3,4,5])
 FindNameFromClient= FindNameFromClientDataSet.iloc[:,0]
+FindNameOfCompagny = FindNameFromClientDataSet.iloc[:,20]
+
+#print(FindNameOfCompagny[1])
 for i in range(len(DataClient)):
         tmpVar = PotentialMatching[i]
         Matching[i]=FindNameFromClient.iloc[tmpVar]
+        MatchingForNameOfCompagny[i]=FindNameOfCompagny[tmpVar]
 
 
 print("You was searching a post of: ")
 print (FindIndexFromJobbeurForJob[ColumnsOfJobberInMyDataset])
+print("\n")
 i=0
 while (Matching[i]!=Matching[i+1]):
         print("Here are the list of potential Job for you:")
-        print(Matching[i])
+        print(Matching[i],"in the compagny : ",MatchingForNameOfCompagny[i])
         print("\n")
         i+=1
 
